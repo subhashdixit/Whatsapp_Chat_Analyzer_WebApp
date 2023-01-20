@@ -1,0 +1,1634 @@
+9/25/22, 15:05 - +91 72062 13862 created group "Fsds 2022"
+9/25/22, 15:05 - You were added
+10/23/22, 12:52 - +91 97168 98919: https://www.linkedin.com/posts/dhananjai-singh-852351142_simple-linear-regression-and-stochastic-gradient-activity-6989847372549795840-F8Q5?utm_source=share&utm_medium=member_desktop
+
+Kindly see this post, prepared with a lot of effort. Surely you will find new insights on Linear regression   
+
+This document will clearly explain the concept of #linearregression and #Stocastic GD and every step taken by the #gradient descend algorithm inside the simple linear regression.
+Further, a program is developed to visualize how the parameters are changing inside the #sklearn LinearRegression model.
+10/23/22, 18:03 - +91 97168 98919: https://medium.com/@ineuron22/linear-regression-9492ab9545c8
+10/23/22, 22:10 - +91 97168 98919: https://medium.com/@ineuron22/why-scaling-is-required-in-ml-116b1e46e943
+
+Why Scaling is required in ML!
+
+Ever wondered why #scaling is important in #machinelearning? This document will help you visualize the effect of scaling on the dataset.
+10/24/22, 10:12 - +91 97482 63373: <Media omitted>
+10/24/22, 11:13 - +91 90042 57538: शुभ दिपावली❤️🫶🏻💥✨
+10/24/22, 11:16 - +91 78955 03637: Happy Diwali everyone
+10/24/22, 22:38 - +91 84119 11153: <Media omitted>
+10/24/22, 22:47 - +91 72918 10968: 🪔 Happy Diwali Everyone 🪔
+10/24/22, 22:49 - +91 95959 59773: Happy diwali 🎉🎉🎊
+10/25/22, 01:02 - Shobhandeb Paul: Happy Diwali 😄
+10/25/22, 16:20 - +91 6283 082 325: I'm on Instagram as srishti.verma_1225. Install the app to follow my photos and videos. https://www.instagram.com/invites/contact/?i=1j70gp7nh9nrd&utm_content=msb5gpk
+10/28/22, 20:10 - +91 98368 99312: https://www.linkedin.com/posts/ruptosh_algerian-forest-fire-machine-learning-prediction-activity-6991769587579052032-ijWm?utm_source=share&utm_medium=member_desktop
+10/28/22, 20:10 - +91 98368 99312: Hi all please like and share my post - Algerian Forest Fire Machine Learning Prediction Model
+10/28/22, 20:15 - Shobhandeb Paul: https://www.linkedin.com/posts/shobhandeb-paul-b6914a168_algerian-forest-dataset-notebook-activity-6990607867070320640-SVVK?utm_source=share&utm_medium=member_android
+10/28/22, 20:21 - Shobhandeb Paul: https://www.instagram.com/reel/CkN1CMAoBRd/?igshid=MDE2OWE1N2Q=
+10/28/22, 20:59 - +91 6398 155 889: This message was deleted
+10/29/22, 15:41 - +91 99992 00885: Hi, I got late due to work, what are we covering Today
+10/29/22, 15:41 - +91 6398 155 889: Support vector machine
+10/29/22, 15:42 - +91 72062 13862: Support vector machine
+10/29/22, 15:42 - +91 72062 13862: Much boring
+10/29/22, 15:42 - +91 99992 00885: Thank you 😇
+10/29/22, 15:43 - +60 11-2419 2738: <Media omitted>
+10/29/22, 16:00 - +91 86689 99819: Yaa
+10/30/22, 14:43 - +91 97176 81545 joined using this group's invite link
+10/30/22, 14:44 - +880 1711-124221 joined using this group's invite link
+10/30/22, 14:48 - +91 90332 44869 joined using this group's invite link
+10/30/22, 14:49 - +91 79855 54980 joined using this group's invite link
+10/30/22, 15:01 - +91 75061 69865 joined using this group's invite link
+10/30/22, 15:10 - +91 70009 26596 joined using this group's invite link
+10/30/22, 15:16 - +91 98217 15290: What happened in last class??
+10/30/22, 15:19 - +91 72910 01699 joined using this group's invite link
+10/30/22, 15:33 - +91 73239 45203 joined using this group's invite link
+10/30/22, 15:50 - +91 70206 63067 joined using this group's invite link
+10/30/22, 16:01 - +91 93903 94878 joined using this group's invite link
+10/30/22, 16:02 - +91 70388 89139 joined using this group's invite link
+10/30/22, 17:00 - +91 89683 53918 joined using this group's invite link
+10/30/22, 17:55 - +91 93980 79516 joined using this group's invite link
+10/30/22, 18:17 - +91 89730 57401 joined using this group's invite link
+10/30/22, 18:19 - +91 86178 08574 joined using this group's invite link
+10/30/22, 18:39 - +44 7831 624309 joined using this group's invite link
+10/30/22, 18:41 - +44 7831 624309: Hello All, I'm Sharath, sorry got to know about this group only today. Hope all are doing well, and this is a very active group.
+10/30/22, 18:49 - +91 79855 54980: Which topic is currently going on here ??
+10/30/22, 18:55 - +91 86178 08574: Hello All, looking forward to connecting with everyone
+10/30/22, 18:55 - +91 86178 08574: This is for the May batch right?
+10/30/22, 18:56 - +91 6398 155 889: SVM kernel and ROC n AUC curve
+10/30/22, 18:56 - +91 95952 53520: Yes
+10/30/22, 18:56 - +91 6398 155 889: Yes
+10/30/22, 18:56 - +91 99397 90052 joined using this group's invite link
+10/30/22, 18:56 - +91 86178 08574: great
+10/30/22, 18:57 - +91 86178 08574: I was having some difficulty understanding the intuition behind SVM
+10/30/22, 18:57 - +91 86178 08574: This video helped me a lot
+10/30/22, 18:57 - +91 86178 08574: by StatsQuest
+10/30/22, 18:57 - +91 99397 90052: Hello Good evening to all sirs
+10/30/22, 18:57 - +91 86178 08574: https://youtu.be/Toet3EiSFcM
+10/30/22, 18:57 - +91 98217 15290: SVM
+10/30/22, 18:58 - +91 86178 08574: Can someone suggested ways to get good at feature engineering
+10/30/22, 18:58 - +91 86178 08574: and data preprocessing
+10/30/22, 18:59 - +91 79855 54980: Haven't these topics covered before ??
+10/30/22, 18:59 - +91 86178 08574: I know
+10/30/22, 19:00 - +91 86178 08574: I asking how can I get better at it, since it requires a lot of practice
+10/30/22, 19:00 - +91 98217 15290: Get through recorded session and practice on new datasets
+10/30/22, 19:00 - +91 79855 54980: They don't have assignments for EDA ??
+10/30/22, 19:01 - +91 79855 54980: And feature analysis
+10/30/22, 19:02 - +91 98217 15290: Dataset is available on kaggle
+10/30/22, 19:03 - +91 79855 54980: What all topics have been covered in ML till now ??
+10/30/22, 19:06 - +91 86178 08574: Yeah but the statistical methods for feature selection, I want to focus on that
+10/30/22, 19:07 - +91 79855 54980: What all topics have been covered in ML till now ??
+10/30/22, 19:13 - +91 72062 13862: Linear reg 
+Logistic reg
+Svm
+10/30/22, 19:15 - +91 70206 63067: Do anyone have assignments for python basics
+10/30/22, 19:20 - +44 7831 624309: I need a tip guys...the newer concept I learn I keep forgetting the old ones......is it just me ?? Not sure what the solution!!
+10/30/22, 19:27 - +91 90636 71244: That happens to everyone. We just need to revise regularly until we get used to it.
+10/30/22, 19:27 - +91 90636 71244: Don't leave anything after learning, you will forget.
+10/31/22, 00:08 - +91 88879 56292 joined using this group's invite link
+10/31/22, 00:42 - +91 81785 68253: In what conditions should we balance an imbalanced dataset?
+
+For performance metrics, we either rely on precision/recall value or we balance the dataset and then check for its accuracy.
+
+I hope my question isn't confusing
+10/31/22, 01:05 - Shobhandeb Paul: In any case, we need to balance the dataset, to get a good accuracy
+10/31/22, 01:07 - Shobhandeb Paul: we may get an accuracy upto the mark, but the good practice is to balance the dataset perform scaling techniques, bring the data point closer to the best fit lines, and then perform all the performance metrics
+10/31/22, 01:18 - +91 81785 68253: Alright, but my understanding is this:- we are eventually trying to improvise the over all performance of our model and there are some performance metrics based on which we can claim a model to be good or not. If without balancing the dataset I'm getting good accuracy, recall/precision values, will there be any need to balance the dataset the?
+10/31/22, 01:19 - Shobhandeb Paul: what I said is u may be getting good accuracy, but the good practice is to balance the dataset and then proceed
+10/31/22, 01:20 - Shobhandeb Paul: it happens sometimes, we do not balance the dataset, still we get accuracy 90+, sometimes it happens so, may be we're overfitting the dataset
+10/31/22, 01:21 - Shobhandeb Paul: everything depends upon the type of dataset and way we approach
+10/31/22, 01:22 - +91 81785 68253: Ideally, i believe this should be done but in order to balance my dataset I'll either have to oversample or undersample. Problem with my dataset is, it has roughly 80% invalid values in it and after removing all those records from dataset I'm left with 20% of the total dataset i.e. 4,000 records out of 30,000 records.
+10/31/22, 01:22 - +91 81785 68253: Should I try balancing it?
+10/31/22, 01:22 - Shobhandeb Paul: which dataset r u using?
+10/31/22, 01:22 - +91 81785 68253: Credit Card Default prediction
+10/31/22, 01:24 - Shobhandeb Paul: if the difference is too much, then do not balance, because in a credit card fraud detection, there may be unique cases, that's need to be taken into consideration, and should not treat as outliers although they are
+10/31/22, 01:25 - +91 81785 68253: Would you mind connecting over a quick call now?
+10/31/22, 01:25 - Shobhandeb Paul: Brother its very late now, we can connect tomorrow anytime
+10/31/22, 01:26 - Shobhandeb Paul: you can text me personally now
+10/31/22, 01:26 - +91 81785 68253: Yeah sure, I'll drop you a text tomorrow in the afternoon
+10/31/22, 01:26 - Shobhandeb Paul: sure sure, that will be good
+10/31/22, 11:23 - +91 79755 70668 joined using this group's invite link
+10/31/22, 11:41 - +91 6363 332 152 joined using this group's invite link
+10/31/22, 11:44 - +91 99675 57017 joined using this group's invite link
+10/31/22, 11:55 - +91 87666 96599 joined using this group's invite link
+10/31/22, 12:09 - +91 98675 46451 joined using this group's invite link
+10/31/22, 13:05 - +91 97005 35544 joined using this group's invite link
+10/31/22, 13:45 - +91 90218 58584 joined using this group's invite link
+10/31/22, 13:47 - +91 90218 58584 changed the subject from "Fsds 2022" to "FSDS 2022"
+10/31/22, 14:50 - +91 87666 96599: For which batch this group is created
+10/31/22, 14:50 - +91 87666 96599: May or sep
+10/31/22, 14:50 - +91 98217 15290: May
+10/31/22, 14:51 - +91 87666 96599: Okk thank you
+10/31/22, 14:51 - +91 98675 46451: does anyone have the link for sep?
+10/31/22, 14:52 - +91 87666 96599: Which topic is currently going on in May batch
+10/31/22, 14:52 - +91 6363 332 152: And November ??
+10/31/22, 14:54 - +91 90636 71244: Machine learning
+10/31/22, 15:52 - +91 91013 41957 joined using this group's invite link
+10/31/22, 16:39 - +91 96859 11215 joined using this group's invite link
+10/31/22, 17:09 - +91 87666 96599: Thanks.. can u please tell how many days it will take to complete it
+10/31/22, 17:10 - +91 90636 71244: Sunny sir said that it'll take 6 more classes to finish
+10/31/22, 17:11 - +91 79855 54980: 6 more months to finish ML ??
+10/31/22, 17:11 - +91 90636 71244: Classes
+10/31/22, 17:11 - +91 90636 71244: Not months
+10/31/22, 17:11 - +91 87666 96599: Okk thank you 😊
+10/31/22, 17:11 - +91 79855 54980: So .. my bad 😔
+10/31/22, 17:14 - +91 79855 54980: With this speed the entire syllabus doesn't seems to be get finished by 2023 May end ...
+10/31/22, 17:52 - +91 98677 16992: Did sept batch is thr
+10/31/22, 18:03 - +91 79855 54980: No.. let's make a separate batch for sept
+10/31/22, 19:20 - +91 6290 268 376: Why can't all batches stay in one group and help one another ?
+10/31/22, 19:22 - Shobhandeb Paul: +1
+10/31/22, 19:30 - +91 79855 54980: This one is also a gud idea
+10/31/22, 19:31 - +91 91013 41957: Yes
+10/31/22, 19:36 - +91 87666 96599: There are 3 group is live for FSDS bootcamp 😂😂
+10/31/22, 19:37 - +91 87666 96599: That's why I didnt join any one but this one I found on discord so I joined
+10/31/22, 19:39 - +91 87666 96599: But now i am lefting 😂😂
+10/31/22, 19:40 - +91 90332 44869: Lefting🤣🤣🤣🤣
+10/31/22, 19:41 - +91 80502 05358 joined using this group's invite link
+10/31/22, 19:45 - +91 99991 76292 joined using this group's invite link
+10/31/22, 19:49 - +91 70884 49986 joined using this group's invite link
+10/31/22, 20:07 - +91 90129 22002: 😂😂
+10/31/22, 20:12 - +91 94160 10888 joined using this group's invite link
+10/31/22, 20:26 - +91 95941 83661 joined using this group's invite link
+10/31/22, 20:53 - +91 81040 88488 joined using this group's invite link
+10/31/22, 21:14 - +91 90849 26610 joined using this group's invite link
+10/31/22, 22:31 - +91 98111 07575: https://www.linkedin.com/posts/ricky-mehra-0a71b124b_fsdsbootcamp-fsds-python-activity-6992876188402630656-jn5K?utm_source=share&utm_medium=member_desktop
+10/31/22, 22:31 - +91 98111 07575: https://redwinequality11.herokuapp.com/
+10/31/22, 22:32 - +91 94107 05228 joined using this group's invite link
+11/1/22, 00:44 - +91 95813 88411 joined using this group's invite link
+11/1/22, 01:00 - +44 7831 624309: Hi, just out of curiosity, are you in May batch, as I see you are showcasing your skills in other algorithms which weren't taught in the lesson....what's the approach you take....is it keeping yourself ahead of the game strategy
+11/1/22, 01:37 - +91 90218 58584: Game
+11/1/22, 01:37 - +91 98111 07575: My dear friend, iNeuron se bahar bhi ek duniya hai..🛸
+
+U shd not compare urself wid others, just compare urself wid u.. u shd not b d same which u were yesterday.. 
+Try to learn new things everyday.. 
+Hope dis helps u to stay motivated!!
+11/1/22, 01:38 - +91 98111 07575: Moreover, sm might hv been d die hard FANs of Mr. Krish Naik from d way long back..
+11/1/22, 01:53 - +44 7831 624309: Acha laga bhai aapka bahar ki duniya or aapka dialogue (also aapka ka motivational talk).....much appreciated
+11/1/22, 02:42 - +91 78400 80134 joined using this group's invite link
+11/1/22, 11:10 - +91 98368 99312: https://www.linkedin.com/posts/ruptosh_numpy-cheat-sheet-activity-6993084239101526016--w89?utm_source=share&utm_medium=member_desktop
+11/1/22, 11:10 - +91 98368 99312: Hello everyone, I have prepared this handwritten Numpy Cheat Sheet. Please like and share
+11/1/22, 11:12 - +91 81307 87637: Looks good 👍🏻
+11/1/22, 11:23 - +91 81785 68253: Nicely explained. Thanks for sharing
+11/1/22, 12:38 - +91 98368 99312: Hi all, Please like my instagram page - https://www.instagram.com/datascience_random/
+11/1/22, 12:49 - +91 6397 781 185 joined using this group's invite link
+11/1/22, 13:59 - +91 6386 695 160 joined using this group's invite link
+11/1/22, 14:03 - +91 95038 33334 joined using this group's invite link
+11/1/22, 14:03 - +91 95038 33334: Hello @everyone fsds 2.0 ?
+11/1/22, 15:15 - +91 79855 54980: Yes
+11/1/22, 15:26 - +91 90288 40977 joined using this group's invite link
+11/1/22, 19:43 - +91 99863 88478 joined using this group's invite link
+11/1/22, 20:08 - Shivan @Ineuron YT Creatoy joined using this group's invite link
+11/1/22, 21:33 - +91 91372 70261 joined using this group's invite link
+11/1/22, 22:10 - +91 78208 16430 joined using this group's invite link
+11/1/22, 22:32 - +91 89730 57401: Get Amazon Courses For Free !
+Amazon has released about 100 courses of their certifications courses. you can find them here
+
+https://www.amazon.com/s?i=courses&rh=p_27%3AAWS+Training+%26+Certification&ref=ignite_dp_authbyl_pop_sr
+11/1/22, 23:03 - +91 77081 21800 joined using this group's invite link
+11/2/22, 06:09 - +91 78208 16430 joined using this group's invite link
+11/2/22, 11:04 - +91 90909 52427 joined using this group's invite link
+11/2/22, 15:19 - +91 90499 13066 joined using this group's invite link
+11/2/22, 23:24 - Shivan @Ineuron YT Creatoy: Hello Everyone, 
+I'm planning to start Live Discussion on below topics.
+
+1. Feature Engineering & model Building [ Including EDA ] 
+2. Machine Learning project [ Including Deployment, Dockerization ] 
+3. Deep Learning Project. 
+4. Python Project
+
+Let me know you suggestions 🙌😇🙏
+11/2/22, 23:27 - +91 77081 21800: Can we fix a time for this?
+11/2/22, 23:28 - Shivan @Ineuron YT Creatoy: yes, I'm planning Friday, Sat and Sunday at 8 PM IST
+11/2/22, 23:28 - Shivan @Ineuron YT Creatoy: for 1 module only
+11/2/22, 23:28 - +91 77081 21800: Sure i am in 👍🏼👍🏼
+11/2/22, 23:29 - Shivan @Ineuron YT Creatoy: Great🤩
+11/2/22, 23:29 - +91 85490 02123: Let's fix time
+11/2/22, 23:29 - +91 85490 02123: Guys
+11/2/22, 23:30 - Shivan @Ineuron YT Creatoy: yes, guys kindly write your availability so that we can plan. After 7 PM I'm available.
+11/2/22, 23:34 - +91 95813 88411: I am in👍
+11/2/22, 23:35 - +91 85490 02123: I'm adjust to this
+11/2/22, 23:35 - +91 85490 02123: 🖐️
+11/2/22, 23:42 - Shobhandeb Paul: Hey Guys, 
+Solved the Wine Quality Dataset using SVC with 86% -- https://www.linkedin.com/feed/update/urn:li:activity:6993634875907944449/
+
+Do review the work! :)
+11/2/22, 23:42 - Subhash Dixit: I think 8:30 will be okay for everyone. Because many of us are working people
+11/3/22, 00:25 - +91 88904 56326: I am in
+11/3/22, 00:41 - +91 70206 63067: I have completed my b.tech in food Technology
+11/3/22, 00:41 - +91 70206 63067: I found the topic relevant
+11/3/22, 01:58 - +44 7831 624309: That's a good step moving forward. I can join too please.
+11/3/22, 01:59 - +91 70206 63067: Can I join
+11/3/22, 01:59 - +91 70206 63067: I just completed MongoDB from our course
+11/3/22, 04:03 - Subhash Dixit: Can someone tell me what are the assumptions we take in SVC and SVR?
+11/3/22, 06:58 - +91 91372 70261: 👍
+11/3/22, 08:27 - +91 95959 59773: 👍🏻
+11/3/22, 08:28 - +91 72062 13862: Done 8:00pm for all
+11/3/22, 08:28 - +91 79855 54980: Yes
+11/3/22, 08:40 - +91 79855 54980: Link 🔗?
+11/3/22, 09:05 - +91 96859 11215: When did this batch start?
+11/3/22, 09:25 - Shivan @Ineuron YT Creatoy: Friday
+11/3/22, 09:32 - +91 96859 11215: ?
+11/3/22, 09:33 - +91 96859 11215: I mean the course start date
+11/3/22, 09:58 - Shivan @Ineuron YT Creatoy: It's a free session, 2-3 days in a week.
+11/3/22, 10:25 - Shobhandeb Paul: In both the cases, the data points near the best fit line will matter the accuracy of the model. For SVC , the classification matrix will give the result of the trained model, as it is a classification model and for SVR, the MAE, MSE or RMSE, will give the info, how well the model is trained, as this is a regression problem.
+
+For increasing the accuracy, u can use the hyperparameter tuning methods, or identify the outliers, and decide whether to remove or not, depending upon the dataset, or drop the less correlated columns, 
+
+if this doesn't answer your question, revert back please
+11/3/22, 10:28 - Subhash Dixit: If we are use sampling techniques, do we need to remove outliers or transformed the right skewed and left skewed data into normal distribution? I have tried all these and found only with sampling accuracy are more.
+11/3/22, 10:30 - Shobhandeb Paul: see u cannot specify a particular method, it all depends on the type of dataset you are using,
+11/3/22, 10:31 - Shobhandeb Paul: sometimes it will happen so, you're getting a good accuracy with sampling or applying any scaling methods, that depends
+11/3/22, 10:31 - Subhash Dixit: Yup that is correct but usually we do this preprocessing that's why I asked
+11/3/22, 10:32 - Subhash Dixit: Yeah got it. Thanks
+11/3/22, 10:32 - Shobhandeb Paul: yeah sure sure, not a problem
+11/3/22, 10:35 - +91 96859 11215: I am asking about the FSDS 2.0 course not the community session being planned
+11/3/22, 10:36 - +91 96859 11215: Where are you guys currently in the course?
+11/3/22, 10:52 - +91 82962 26281: This message was deleted
+11/3/22, 12:59 - +91 6290 268 376: What would be the mode of joining ?
+11/3/22, 13:37 - +91 90636 71244: Please share the meeting link
+11/3/22, 15:47 - +91 97523 67377 joined using this group's invite link
+11/3/22, 18:10 - Shivan @Ineuron YT Creatoy: <Media omitted>
+11/3/22, 18:11 - +91 85490 02123: 👍
+11/3/22, 18:18 - +91 95563 32113: This message was deleted
+11/3/22, 18:19 - +91 95563 32113: 👍👌
+11/3/22, 18:59 - +91 70206 63067: Is it for freshers in this field?
+11/3/22, 19:25 - Shivan @Ineuron YT Creatoy: yes from Basics
+11/3/22, 23:00 - +91 89555 89228 joined using this group's invite link
+11/3/22, 23:01 - +91 85490 02123: <Media omitted>
+11/3/22, 23:01 - +91 85490 02123: 😀😀😀
+11/3/22, 23:01 - +91 85490 02123: Great model
+11/3/22, 23:15 - +91 86178 08574: Hi guys
+11/3/22, 23:16 - +91 86178 08574: for the wine quality dataset, what's the best accuracy you got using SVC
+11/3/22, 23:51 - Shobhandeb Paul: https://www.linkedin.com/feed/update/urn:li:activity:6993634875907944449/
+
+86%
+11/3/22, 23:56 - +91 86178 08574: cool
+11/3/22, 23:57 - +91 86178 08574: I see you did log transformation on the dataset
+11/3/22, 23:57 - +91 86178 08574: was that to deal with the outliers?
+11/4/22, 00:14 - Subhash Dixit: Log transformation is for converting right skewed or left skewed data to normal distribution
+11/4/22, 00:16 - Subhash Dixit: Can someone tell me if the features are highly positively or negatively correlated with the target variable then it is good, right? And if the features are highly correlated among themselves then it is bad,right?
+11/4/22, 00:16 - Subhash Dixit: In regression problem
+11/4/22, 00:17 - +91 86178 08574: if the features are highly correlated among themselves then basically they behave like one feature
+11/4/22, 00:17 - +91 86178 08574: so its better to drop one of them
+11/4/22, 00:18 - Subhash Dixit: Is my understanding is correct wrt to target variable?
+11/4/22, 00:19 - +91 95563 32113: Let me correct you my friend
+Log transformation of only for right skewed
+11/4/22, 00:19 - +91 86178 08574: yes
+11/4/22, 00:20 - Subhash Dixit: Oh! Thanks for the correction. Please let me know how to convert left skewed data to normal distribution?
+11/4/22, 00:20 - Subhash Dixit: Thanks
+11/4/22, 00:22 - +91 95563 32113: In terms of coding you can apply box-cox transformation
+Which will converter a distribution to normal if it is not normally distributed
+11/4/22, 00:24 - Subhash Dixit: Box Cox is applicable for right and left skewed both? Or only for left skewed?
+11/4/22, 00:25 - +91 86178 08574: whats the benifit of making the data normally distributed?
+11/4/22, 00:25 - +91 86178 08574: aren't we messing with the original data
+11/4/22, 00:25 - +91 95563 32113: Log transformation is applicable to only Right skewed
+Box-cox to any distribution which are not normally distributed
+11/4/22, 00:26 - +91 95563 32113: It's not about messing and all
+11/4/22, 00:27 - +91 95563 32113: If our dataset is Normandy distributed then we can apply most of the statistical formals over it and get the insight. But in case of others it's very difficult
+11/4/22, 00:28 - +91 95563 32113: And in transformation we're only changing the distribution to another form
+That's it
+11/4/22, 00:29 - +91 86178 08574: yes but we're applying a function over the dataset, which changes the values itself isn't
+11/4/22, 00:30 - +91 86178 08574: in case of scaling dataset using transform and fit transform... we just scale down the values, the relationship between all the data points still remains the same
+11/4/22, 00:30 - +91 86178 08574: so I understand why this works
+11/4/22, 00:32 - +91 95563 32113: Yes we're changing the value with respect to the central point for all the features to get our job done(insight)
+
+For more clarity over the concept please refer Google
+11/4/22, 00:32 - +91 70206 63067: This message was deleted
+11/4/22, 00:32 - +91 86178 08574: Alright thanks 🤘
+11/4/22, 00:35 - Subhash Dixit: Thanks
+11/4/22, 00:36 - +91 95563 32113: Anytime bro
+11/4/22, 01:44 - Subhash Dixit: Did anyone get the more than 90% accuracy for admission prediction problem using SVR?
+11/4/22, 12:27 - +91 90042 57538: <Media omitted>
+11/4/22, 12:27 - +91 90042 57538: <Media omitted>
+11/4/22, 13:03 - +91 97555 06175: Discord group link plz send
+11/4/22, 15:13 - +91 82962 26281: https://discord.com/invite/wyEAPaQEBN
+11/4/22, 15:48 - +91 93258 66289: Guys any one has completed Internship from Ineuron
+11/4/22, 15:49 - +91 88904 56326: Any person who is from jaipur in this group?
+11/4/22, 16:28 - Shivan @Ineuron YT Creatoy: https://youtu.be/6yYEKuABmFs
+11/4/22, 20:00 - Shivan @Ineuron YT Creatoy: Live Started, Feature Engineering Discussion: https://youtu.be/6yYEKuABmFs
+11/4/22, 20:23 - +91 90042 57538: Anyone able to download dataset??
+11/4/22, 21:07 - +91 80730 86970 joined using this group's invite link
+11/4/22, 22:00 - Subhash Dixit: Can you send the GitHub link here. I didn't get in the description
+11/4/22, 22:19 - Shivan @Ineuron YT Creatoy: https://github.com/Shivan118/Student-Performance-Project
+11/4/22, 23:00 - Subhash Dixit: Thanks
+11/5/22, 01:30 - +91 89683 53918: Cam anybody help with 2 ways to get rows and columns from dataset?
+11/5/22, 02:00 - Subhash Dixit: <Media omitted>
+11/5/22, 13:08 - +60 11-2419 2738: Can plz share todays 3pm training link. I didn't receive yet. (FSDS bootcamp )
+11/5/22, 13:21 - +91 95959 59773: You can find it in dashboard
+11/5/22, 13:27 - +60 11-2419 2738: Got it. Thanks
+11/5/22, 13:57 - Shobhandeb Paul: using pandas [ ] , loc and iloc
+11/5/22, 13:58 - Shobhandeb Paul: did you scale the values?
+11/5/22, 13:58 - Shobhandeb Paul: after deleting the features, or check if anyone of the column requires, labelencoding?
+11/5/22, 14:15 - Subhash Dixit: No, scaling will be done after deleting features, right?Actually features are highly correlated..Out of 6-7 features after applying VIf only two will be left.
+11/5/22, 14:15 - Subhash Dixit: No features requires encoding
+11/5/22, 14:30 - Shobhandeb Paul: okay okay, I thought it in the other way
+11/5/22, 14:31 - Subhash Dixit: Yes, will ask today to Krish sir. If after applying VIF only two features will be left out of 7 then what to do
+11/5/22, 15:05 - Shobhandeb Paul: the class hasn't started yet, right?
+11/5/22, 15:07 - +91 81785 68253: Not yet
+11/5/22, 15:07 - +91 78400 80134: Class cancelled bocz Sudhanshu Sir is not feeling well.
+11/5/22, 15:07 - +44 7831 624309: Was VIF taught is class? Did I miss something?
+11/5/22, 15:08 - +91 78955 03637: <Media omitted>
+11/5/22, 15:08 - +60 11-2419 2738: <Media omitted>
+11/5/22, 15:08 - Shobhandeb Paul: ended by the hosr?
+11/5/22, 15:08 - Shobhandeb Paul: host?
+11/5/22, 15:08 - +91 90042 57538: Yes
+11/5/22, 15:10 - +91 98217 15290: started again
+11/5/22, 15:14 - Shobhandeb Paul: yup
+11/5/22, 15:15 - +91 89683 53918: Thank you can you please share syntax too as I  am totally new to data Science
+11/5/22, 15:16 - Shobhandeb Paul: yes, sure, for time being u can check with the pandas documentation
+11/5/22, 15:16 - +91 78384 55584: class had started now.
+11/5/22, 15:16 - Shobhandeb Paul: https://www.geeksforgeeks.org/select-rows-columns-by-name-or-index-in-pandas-dataframe-using-loc-iloc/
+11/5/22, 15:16 - Shobhandeb Paul: refer this
+11/5/22, 15:17 - +91 89683 53918: Thank you, Shobhandeb
+11/5/22, 15:17 - +91 89683 53918: This message was deleted
+11/5/22, 15:17 - Shobhandeb Paul: You're welcome Richa
+11/5/22, 15:17 - Shobhandeb Paul: yes
+11/5/22, 15:17 - +91 78384 55584: dss is being discussed now
+11/5/22, 15:17 - +91 89683 53918: Sorry sorry I am not on your batch
+11/5/22, 15:27 - +91 75880 03618: No krish sir today?
+11/5/22, 15:28 - +91 88283 82181: Krish sir will join after half hour
+11/5/22, 15:28 - +91 99397 90052: This day there is no class sir. Mr. Sudhanshu sir is not feeling well.
+11/5/22, 15:29 - +60 11-2419 2738: This group for 2022 May FSDS batch.
+11/5/22, 15:34 - +91 99397 90052: Yes at 3.00 PM batch started from 17th September 2022.
+11/5/22, 15:34 - +91 78400 80134: This message was deleted
+11/5/22, 15:35 - +91 99397 90052: Plz. Check at email sir.
+11/5/22, 15:37 - +91 89555 89228: someone mentioned this batch month too in group name  many are joining randomly
+11/5/22, 15:37 - +91 78400 80134: My batch 17th of Sep 2022.
+11/5/22, 15:43 - +91 79855 54980: Any separate group for sep 2022 batch
+11/5/22, 15:47 - +91 97176 81545: Please make a new batch
+11/5/22, 15:47 - +91 79855 54980: Yes ...
+11/5/22, 16:03 - Shivan @Ineuron YT Creatoy: https://chat.whatsapp.com/H00kZifRN1UI0wRNTrpr6u
+11/5/22, 16:31 - Shobhandeb Paul: Hi All, 
+Please fillup this survey form : https://forms.gle/UxH3NGLbBrs1NaL99
+11/5/22, 19:10 - +91 97168 98919: https://www.linkedin.com/posts/dhananjai-singh-852351142_linear-regression-activity-6994653074501873664-v2vU?utm_source=share&utm_medium=member_desktop
+
+This document will show the implementation of the #linearregression and its variance. Also, you will get a detailed idea of how to get the importance of any feature using Lasso and Elastic Net. How Lasso can be used to feature engineering is explained.
+11/5/22, 19:13 - +60 11-2419 2738: 👍
+11/5/22, 19:25 - Shivan @Ineuron YT Creatoy: anyone planning to start hackerank platform to solve python problems ??
+11/5/22, 19:28 - +91 77081 21800: Is it a website ?
+11/5/22, 19:28 - Shivan @Ineuron YT Creatoy: yes
+11/5/22, 19:29 - Shivan @Ineuron YT Creatoy: this is a best platform to practice python and sql questions: https://www.hackerrank.com/
+11/5/22, 19:30 - Shivan @Ineuron YT Creatoy: <Media omitted>
+11/5/22, 19:31 - +91 77081 21800: Haa. Thanks . Wil use it
+11/5/22, 19:32 - +91 90042 57538: Yes
+11/5/22, 19:58 - Shivan @Ineuron YT Creatoy: Live started in 2m : https://youtu.be/x7iVKjucNSQ
+11/5/22, 21:43 - Subhash Dixit: please fill out this form
+https://forms.gle/ofxrMPAuvzdfMuDz8
+11/5/22, 23:29 - +91 99379 99162: Thanks for the info👍
+11/6/22, 03:56 - +44 7831 624309: I could not successfully complete the power consumption dataset for linear regression, I'm sure I'm missing something..accuracy was 1 always!!!
+11/6/22, 08:18 - +91 79755 70668: Yes even for me same.
+11/6/22, 09:49 - +91 95959 59773: Leetcode is also a good one for practice
+11/6/22, 10:28 - +91 79755 70668: Nice code, can we have small connect when u r free.
+11/6/22, 10:38 - +91 97168 98919: Sure
+11/6/22, 11:34 - +91 89683 53918: Is it possible to permanently remove columns, if we had already remove same columns with drop function?
+11/6/22, 11:35 - +91 90042 57538: yes
+11/6/22, 11:35 - +91 90042 57538: you have to use axis=1, inplace=True
+11/6/22, 11:35 - +91 89683 53918: Already did but still getting error
+11/6/22, 11:36 - +91 90042 57538: check you dataset if that column is still there or not
+11/6/22, 11:36 - +91 89683 53918: Column is not there
+11/6/22, 11:36 - +91 90042 57538: then it removed already
+11/6/22, 11:37 - +91 90042 57538: when droping you delete it permentaly
+11/6/22, 11:37 - +91 90042 57538: by using this
+11/6/22, 11:37 - +91 89683 53918: This message was deleted
+11/6/22, 11:38 - +91 89683 53918: This message was deleted
+11/6/22, 11:40 - +91 89683 53918: I use df.drop(' column-name'), axis =1
+11/6/22, 11:41 - +91 81307 87637: Drop is a whole function use axis=1 inside
+11/6/22, 11:41 - +91 81307 87637: Bracket
+11/6/22, 11:41 - +91 89683 53918: Sorry sorry I already did
+11/6/22, 11:42 - +91 89683 53918: And then checked dataset, columns were not there
+11/6/22, 11:42 - +91 89683 53918: But now when doing in place=true, its showing error
+11/6/22, 11:43 - +91 81307 87637: Yeah it is now gone from your original dataset
+11/6/22, 11:43 - +91 90042 57538: maybe you this first
+11/6/22, 11:44 - +91 90042 57538: then you try to drop it temporary
+11/6/22, 11:44 - +91 81307 87637: Yeah
+11/6/22, 11:44 - +91 81307 87637: Reload dataset and try again
+11/6/22, 11:44 - +91 89683 53918: Ok
+11/6/22, 11:44 - +91 90042 57538: yes try to rerun
+11/6/22, 11:45 - +91 89683 53918: So have to load again csv file again?
+11/6/22, 11:45 - +91 81307 87637: Yes
+11/6/22, 11:45 - +91 90042 57538: no just restrart and run all maybe
+11/6/22, 11:45 - +91 89683 53918: Ok
+11/6/22, 11:45 - +91 90042 57538: delete that inplace line before this
+11/6/22, 11:46 - +91 81307 87637: Then I think same steps will be performed that she did before
+11/6/22, 11:46 - +91 81307 87637: Yes
+11/6/22, 11:46 - +91 89683 53918: Which inline
+11/6/22, 11:46 - +91 90042 57538: yes
+11/6/22, 11:46 - +91 90042 57538: inplace*
+11/6/22, 11:49 - +91 89683 53918: I tried to temporarily drop columns it working
+11/6/22, 11:51 - +91 89683 53918: Df.drop(['item']),axis=1)
+11/6/22, 12:10 - Subhash Dixit: If I am getting 100 % accuracy for test and training set, is it okay? Or Do I need to change anything?
+11/6/22, 12:17 - Shobhandeb Paul: check if the model is overfitted
+11/6/22, 12:19 - Subhash Dixit: Test and train accuracy both are 100% it means a general model right?
+11/6/22, 12:19 - Shobhandeb Paul: not necessary
+11/6/22, 12:19 - Shobhandeb Paul: sometimes, model may be overfitted
+11/6/22, 12:20 - Subhash Dixit: Then how to check overfitted model other tha by checking with accuracy
+11/6/22, 12:21 - Shobhandeb Paul: https://machinelearningmastery.com/overfitting-machine-learning-models/
+11/6/22, 12:21 - Shobhandeb Paul: Basically, it is very rare to have a 100% model
+11/6/22, 12:22 - Shobhandeb Paul: Bro, Dettol v 99.9% germs kill krta h
+11/6/22, 12:22 - Shobhandeb Paul: :)
+11/6/22, 12:24 - Subhash Dixit: Thanks reading this article now
+11/6/22, 12:24 - Subhash Dixit: Wahi toh...
+11/6/22, 12:24 - Subhash Dixit: 😂nice example
+11/6/22, 14:09 - Shivan @Ineuron YT Creatoy: https://www.linkedin.com/feed/update/urn:li:activity:6994940014853849088/
+11/6/22, 15:13 - +91 86178 08574: Sunny will be taking todays session as well?
+11/6/22, 15:14 - Shobhandeb Paul: yes,
+11/6/22, 15:14 - +91 79855 54980: Is sunny taking today's session..?? 
+But we recieved a mail that session is cancelled
+11/6/22, 15:15 - +91 98217 15290: Fsds 2.0 is cancelled
+11/6/22, 15:15 - Shobhandeb Paul: which batch?
+11/6/22, 15:15 - +91 86178 08574: I thought this group is for may batch
+11/6/22, 15:17 - +60 11-2419 2738: Yes  it is for may batch.. As I see messages
+11/6/22, 15:17 - +91 98217 15290: 2.0 is September batch
+11/6/22, 15:18 - +91 86178 08574: why did the sept batch get cancelled btw?
+11/6/22, 15:18 - +91 98217 15290: Sudheer sir is sick
+11/6/22, 15:18 - +91 98217 15290: Check email
+11/6/22, 15:18 - +91 89683 53918: because Sudhanshu sir was not well yesterday and got today's appointment for doctor
+11/6/22, 15:19 - +91 86178 08574: oh you mean the class is cancelled....I thought the entire batch has been cancelled 😅
+11/6/22, 17:45 - Subhash Dixit: In linear regression, when accuracy is about 90 % for test and train but MSE and MAE values are very high? What can we do?
+11/6/22, 18:51 - Shobhandeb Paul: What abt R2 score?
+11/6/22, 18:51 - Shobhandeb Paul: it is very low, or good?
+11/6/22, 18:51 - Shivan @Ineuron YT Creatoy: https://youtu.be/I4kzVhm8MRQ
+11/6/22, 18:53 - Shobhandeb Paul: Remove outliers in the data
+Do feature selection, some of features may not be as informative.
+Try to combine some features to make it more meaningful e.g. ratio of some feature may be more meaningful than individual features to predict price.
+Maybe the linear regression is under fitting or over fitting the data you can check ROC curve and try to use more complex model like polynomial regression or regularization respectively
+11/6/22, 19:45 - Subhash Dixit: Good..90%
+11/6/22, 19:46 - Shobhandeb Paul: follow these steps
+11/6/22, 19:47 - Subhash Dixit: Few of these steps has been done already...will try to do more feature engineering
+11/6/22, 19:47 - Subhash Dixit: Yes will try...Thabks
+11/6/22, 19:47 - Shobhandeb Paul: exactly, orelse, I don't see any more ways, uptill now
+11/6/22, 19:57 - +91 90636 71244: Guys, did sir give any assignment today??
+11/6/22, 19:58 - Shobhandeb Paul: yes
+11/6/22, 20:02 - Subhash Dixit: Yes...But I have to improve by any means because cost function values are very awkward
+11/6/22, 20:03 - Shobhandeb Paul: awkward, like?
+11/6/22, 20:04 - Subhash Dixit: <Media omitted>
+11/6/22, 20:04 - Subhash Dixit: See this
+11/6/22, 20:18 - Shobhandeb Paul: bhai MSE toh limit cross kr diya
+11/6/22, 20:18 - Subhash Dixit: Exactly...sab kuch cross kr diya
+11/6/22, 20:18 - Subhash Dixit: Samajh nhi Raha h
+11/6/22, 20:19 - Subhash Dixit: Did you complete house power consumption problem?
+11/6/22, 20:19 - Shobhandeb Paul: yes
+11/6/22, 23:21 - +44 7831 624309: I wasn't very successful with power consumption problem with my accuracy struck at 1
+11/6/22, 23:28 - Shobhandeb Paul: which algo you're trying to train with?
+11/6/22, 23:46 - +91 90042 57538: <Media omitted>
+11/6/22, 23:47 - +91 90042 57538: I'm facing this issue while downloading jupyter notebook file as pdf, anyone can help?
+11/7/22, 00:03 - Shobhandeb Paul: install anaconda again
+11/7/22, 00:03 - Shobhandeb Paul: I also faced the same issue, cleaned all the cache files, still problem didn't go,
+11/7/22, 00:04 - Shobhandeb Paul: reinstalling solved the problem
+11/7/22, 04:22 - +44 7831 624309: <Media omitted>
+11/7/22, 10:53 - Shivan @Ineuron YT Creatoy: https://youtu.be/LK7BacCMncI
+11/7/22, 10:54 - +91 97168 98919: https://www.linkedin.com/posts/dhananjai-singh-852351142_logistic-regression-activity-6995253596577521665-Mm9v?utm_source=share&utm_medium=member_desktop
+
+This document will guide you to each step to be performed on Logistic Regression on Algerian Forest Fire Dataset.
+
+Topics Covered:
+- Performing detailed Exploratory Data Analysis
+- Performing detailed Feature Engineering
+- Implementing Logistic Regression on the Dataset
+11/7/22, 11:00 - +60 11-2419 2738: 👍tq
+11/7/22, 11:31 - +91 88924 60154: Any task from yesterday class ?
+11/7/22, 12:24 - +91 85490 02123: <Media omitted>
+11/7/22, 12:25 - +91 85490 02123: <Media omitted>
+11/7/22, 12:25 - +91 85490 02123: 😀
+11/8/22, 18:21 - +91 77809 92150: https://www.linkedin.com/posts/prikshit7766_learning-community-machinelearning-activity-6995722303485423618-K20F?utm_source=share&utm_medium=member_android
+11/8/22, 19:00 - +91 77809 92150: https://www.linkedin.com/posts/prikshit7766_github-prikshit7766exploratory-data-analysis-and-feature-engineering-activity-6995738897745883136-OJG5?utm_source=share&utm_medium=member_android
+11/9/22, 21:36 - +91 83082 04838 joined using this group's invite link
+11/9/22, 22:03 - +91 99106 00932 joined using this group's invite link
+11/9/22, 22:15 - Subhash Dixit: Can some one tell how to handle 23M data in python?
+11/9/22, 23:04 - +91 90218 58584: Is anyone from may batch?
+11/9/22, 23:08 - +91 90042 57538: This group is for may batch
+11/9/22, 23:09 - +91 90218 58584: Okay
+11/9/22, 23:09 - +91 90218 58584: Did anyone get a job as python developer?
+11/10/22, 14:25 - +91 87923 78841: <Media omitted>
+11/11/22, 14:03 - +91 83195 51847 joined using this group's invite link
+11/11/22, 15:45 - +91 78384 55584: This message was deleted
+11/11/22, 15:46 - +91 91300 00229 joined using this group's invite link
+11/11/22, 15:49 - +60 11-2419 2738: done
+11/11/22, 15:55 - +91 87923 78841: Thank you🙂
+11/11/22, 18:38 - +91 90042 57538: In linear regression while plotting scatterplot for residuals and predicted values our graph should be uniformally distributed, but I'm getting linear distribution where am I wrong?? Any idea?
+11/11/22, 18:39 - Shivan @Ineuron YT Creatoy: This message was deleted
+11/11/22, 18:40 - Shivan @Ineuron YT Creatoy: https://youtu.be/Sj82QtHxxcA
+11/12/22, 20:31 - +91 6380 317 040 joined using this group's invite link
+11/12/22, 21:06 - +91 90042 57538: anyone have today's task dataset link
+11/12/22, 21:11 - Shobhandeb Paul: https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption
+11/12/22, 21:49 - +91 6380 317 040: This message was deleted
+11/12/22, 21:53 - +91 90042 57538: I think  it's power consumption dataset🧐🧐
+11/13/22, 00:33 - Shobhandeb Paul: yes
+11/13/22, 00:37 - Shivan @Ineuron YT Creatoy: This message was deleted
+11/13/22, 00:37 - Shivan @Ineuron YT Creatoy: https://youtu.be/HdgXLDIQfLQ
+11/13/22, 13:30 - Shivan @Ineuron YT Creatoy: https://youtu.be/HdgXLDIQfLQ
+11/13/22, 13:30 - Shivan @Ineuron YT Creatoy: I request you everyone of you,  watch this video before making your first projects.
+11/13/22, 14:27 - +91 88619 37985: Please Do Endorse my Skills and like the posts.
+
+https://www.linkedin.com/in/krishna-biradar-51538a244
+11/13/22, 19:41 - +91 79755 70668: Is anyone completed the Census data assignment?
+11/13/22, 20:00 - Shobhandeb Paul: completed
+11/13/22, 20:01 - +91 79755 70668: Can u plz share your file
+11/13/22, 20:03 - Shobhandeb Paul: https://www.linkedin.com/feed/update/urn:li:activity:6996347062267072513/
+11/13/22, 20:03 - Shobhandeb Paul: get it from here
+11/13/22, 20:03 - +91 79755 70668: Thank you
+11/15/22, 15:44 - Shivan @Ineuron YT Creatoy: https://youtu.be/C_cqTnpI1gQ
+11/15/22, 15:44 - Shivan @Ineuron YT Creatoy: If you're planning to do the end to end project, watch this video
+11/15/22, 18:07 - +91 77809 92150: https://www.linkedin.com/posts/prikshit7766_github-prikshit7766machine-learning-activity-6998230950065168384-Uxiy?utm_source=share&utm_medium=member_android
+11/16/22, 01:12 - Subhash Dixit: How much did the Census SVC model take to run?
+11/16/22, 01:19 - +91 77809 92150: For me, it was  taking more than one day and still it was training , then i took less parameters for grid search then it took 4 to 5hrs
+11/16/22, 01:20 - +91 77809 92150: https://github.com/Prikshit7766/machine-learning/tree/main/Adult%20Census%20Income
+11/16/22, 01:28 - Subhash Dixit: I took 100 rows of data only, then also it has been running since 30 mins
+11/16/22, 01:29 - Subhash Dixit: Where did you run? I mean Google colab, nuerolab or on your local system?
+11/16/22, 01:29 - +91 77809 92150: In my Laptop 😭
+11/16/22, 01:32 - +91 77809 92150: <Media omitted>
+11/16/22, 01:33 - Subhash Dixit: Not happening in colab...I always use colab onky
+11/16/22, 01:34 - Subhash Dixit: Only*
+11/16/22, 01:35 - +91 77809 92150: Try Do it on your local system.. And take less parameters for grid search
+11/16/22, 01:35 - +91 77809 92150: As the dataset is huge that's why it is taking too much time
+11/16/22, 01:36 - Subhash Dixit: Okay Will try but have already tried all the possible combinations
+11/16/22, 01:37 - +91 77809 92150: try with these much parameters
+11/16/22, 01:37 - +91 77809 92150: param_grid = {'C': [0.001, 0.01,0.1, 0.5, 1],
+'kernel': ['rbf','poly','sigmoid','linear'],
+'gamma' : ['auto'], 
+'degree': [1,2,3]
+}
+11/16/22, 01:38 - +91 77809 92150: may be it will take 5 to 6 hrs
+11/16/22, 01:54 - Subhash Dixit: Thanks. Will try this
+11/16/22, 01:54 - Subhash Dixit: In local system
+11/16/22, 09:22 - +91 95959 59773: https://github.com/anktd23/household-electricity-consumption
+11/16/22, 09:23 - +91 95959 59773: ☝🏻☝🏻All ML algorithm using pipeline and column transformer
+11/16/22, 09:26 - +60 11-2419 2738: 👍
+11/16/22, 10:09 - Subhash Dixit: This is good.
+11/16/22, 14:03 - Shivan @Ineuron YT Creatoy: https://youtu.be/eHuEG_571Ng
+11/18/22, 23:36 - Subhash Dixit: Does Encoding and Scaling comes under pre processing?
+11/18/22, 23:46 - Shobhandeb Paul: yes
+11/18/22, 23:49 - Subhash Dixit: Okay
+11/19/22, 12:22 - +91 91300 00229: Do we need to do preprocessing after train test split or prior to that?
+11/19/22, 12:53 - Shobhandeb Paul: prior to train_test_split
+11/19/22, 17:02 - +91 99227 66661 joined using this group's invite link
+11/19/22, 17:12 - +91 98250 15084 joined using this group's invite link
+11/19/22, 17:26 - +91 79997 44064 joined using this group's invite link
+11/19/22, 18:21 - +91 95793 15690 joined using this group's invite link
+11/20/22, 13:49 - +91 96049 01230 joined using this group's invite link
+11/21/22, 08:17 - +91 94500 61215 changed to +91 99172 91903
+11/21/22, 13:07 - Shivan @Ineuron YT Creatoy: https://youtu.be/lCxOQF_Deyc
+11/21/22, 16:07 - +91 99172 91903 changed to +91 94500 61215
+11/21/22, 23:03 - +91 99440 94955 joined using this group's invite link
+11/22/22, 17:57 - +91 94500 61215 changed to +91 99172 91903
+11/23/22, 20:21 - Shivan @Ineuron YT Creatoy: This message was deleted
+11/23/22, 20:34 - Shivan @Ineuron YT Creatoy: Let’s have a detailed explanation about (not limited to): -**End to End Machine learning project building ( Modular coding approach)**
+
+Topic Covered: 
+Machine Learning project life cycle.
+Understanding about the Industry Standard folder structure
+Example Explanation
+Build end to end project with web application
+Deployment ( If time allow we will cover GitHub pipeline )
+How to add projects in Resume.
+
+Keeping yourself relevant in the industry
+
+I will be happy to share my experience. You can consider it as one more opinion while deciding. Let’s make it happen together!
+
+Book your Slots here: https://lnkd.in/gbFbEAtp
+
+All you have to do is click on the link, book a slot at your convenience, make the payment and we’re good to go!
+Keeping a small fee to ensure that no genuine requests are missed out. Looking forward to insightful and interesting conversations with you guys!
+11/23/22, 21:14 - +91 78549 35445: Ineuron Mobile App
+
+https://play.google.com/store/apps/details?id=com.ineuronmobileapplication
+11/23/22, 23:26 - +91 99172 91903: Not working properly
+11/23/22, 23:27 - +91 99172 91903: <Media omitted>
+11/23/22, 23:27 - +91 99172 91903: Lagging in playing vedio
+11/23/22, 23:38 - +91 99397 90052: Yes
+11/24/22, 08:26 - +91 90332 44869: This message was deleted
+11/24/22, 08:53 - +91 80834 90948 joined using this group's invite link
+11/24/22, 12:09 - Shivan @Ineuron YT Creatoy: https://youtu.be/gx3bK8m_V9M
+11/24/22, 15:37 - +91 99227 66661: Hi
+11/24/22, 15:37 - +91 99227 66661: Is anyone here from Nov 21 batch
+11/24/22, 15:39 - +91 99227 66661: Or if anyone knows someone from Nov 21 batch pls pm me
+11/24/22, 15:58 - Shivan @Ineuron YT Creatoy: https://www.linkedin.com/feed/update/urn:li:share:7001490803512553472/
+11/24/22, 20:09 - +91 97168 98919: Have you ever visualised how any model overfits or underfits the dataset?
+Or are you confused to understand what is underfitting or overfitting?
+Or how the overfitting model is a complex model and the underfitting model a simple model?
+Or what is the Bias variance tradeoff?
+
+This article will give you answer to the above questions, not just theoretically but also practically, and it will clear your doubt about overfitting, underfitting and bias-variance tradeoff.
+
+https://medium.com/@ineuron22/understand-bias-variance-tradeoff-with-overfit-and-underfit-model-a7a768b8b025
+11/24/22, 20:26 - Subhash Dixit: Informative, Thanks
+11/25/22, 12:02 - Shivan @Ineuron YT Creatoy: https://www.linkedin.com/feed/update/urn:li:share:7001794234341101569/
+11/25/22, 16:43 - +44 7831 624309: Hello all, is someone here with 15+ yrs experience looking to transition from non IT background please...like to connect
+11/25/22, 16:49 - +60 11-2419 2738: How to connect?
+11/25/22, 16:50 - +91 90332 44869: Like
+11/25/22, 16:51 - +44 7831 624309: Ping me on my WhatsApp we can have a chat and draw inspiration from each other and keep motivated
+11/27/22, 23:50 - +91 99172 91903 changed to +91 94500 61215
+11/28/22, 20:39 - Subhash Dixit: When is the class?
+11/28/22, 20:39 - +91 79755 70668: 8:40
+11/28/22, 20:39 - +91 98217 15290: Now
+11/28/22, 20:40 - Subhash Dixit: Okay
+11/28/22, 20:45 - +91 96404 90672: <Media omitted>
+11/28/22, 20:45 - +91 79755 70668: Yes started
+11/28/22, 20:48 - +91 96404 90672: I have tried to join using love class link from dashboard . 
+
+It still shows this ?  Any clue..
+11/28/22, 20:53 - +91 95959 59773: Use extra class link in dropdown
+11/29/22, 11:53 - +91 90636 71244: <Media omitted>
+11/29/22, 11:55 - +91 79997 44064: You need to import SensorException on that module
+11/29/22, 11:55 - +91 90042 57538: yes
+11/29/22, 11:55 - +91 90636 71244: Ok let me check
+11/29/22, 11:56 - +91 90636 71244: I did
+11/29/22, 11:57 - +91 90636 71244: I have already imported SensorException module
+11/29/22, 11:57 - +91 90129 22002: Check for spelling
+11/29/22, 11:57 - +91 90636 71244: <Media omitted>
+11/29/22, 11:59 - +91 90636 71244: Same error is repeating
+11/29/22, 12:05 - +91 78955 03637: Check in exception.py
+11/29/22, 12:09 - +91 90636 71244: Everything is fine
+11/29/22, 12:12 - +91 90042 57538: aaj bhi extra lecture hai kya?
+11/29/22, 12:12 - +91 90636 71244: Tomorrow there will be
+11/29/22, 12:14 - +91 90636 71244: <Media omitted>
+11/29/22, 15:09 - Shivan @Ineuron YT Creatoy: https://youtu.be/djdnnNF7zKo
+11/29/22, 15:47 - +91 78955 03637: Yeah this is correct ...  Not sure why you are getting this
+11/29/22, 15:51 - +91 90636 71244: I'm clear with that
+11/29/22, 15:58 - +91 90636 71244: <Media omitted>
+11/29/22, 15:59 - +91 90636 71244: It says that dataingestionartifact takes no args
+11/29/22, 16:15 - +91 90042 57538: <Media omitted>
+11/29/22, 16:15 - +91 90042 57538: Anyone can please tell me what's the error?
+11/29/22, 16:28 - +91 90636 71244: It is saying that the input you are giving is not a real number
+11/29/22, 16:29 - +91 90042 57538: but getting that p-value from stat function
+11/29/22, 16:31 - +91 90636 71244: You are giving F_onewayResult as input
+11/29/22, 20:45 - +91 95959 59773: Can we have session today?
+11/29/22, 20:45 - +91 90042 57538: No
+11/29/22, 20:45 - +91 95959 59773: Thanks
+11/29/22, 21:21 - +91 98610 45001 joined using this group's invite link
+11/29/22, 23:41 - +91 75047 29277 joined using this group's invite link
+11/30/22, 13:50 - +91 96698 39680: Can any one help me how I can add notebook to neuro lab
+11/30/22, 13:58 - +91 93903 94878: Just right click on folder name ->in options you see upload option
+11/30/22, 14:29 - +91 70206 63067: Guys can anyone share the answers for python basics assignments!
+11/30/22, 14:29 - +91 70206 63067: GitHub!
+11/30/22, 14:31 - +91 96698 39680: Thank you @919390394878
+11/30/22, 14:49 - +91 98610 45001: Sudhanshu sir will not be happy 😂😂
+11/30/22, 15:20 - +91 70206 63067: 😂
+11/30/22, 20:00 - +91 6290 268 376: Extra class is on 8:00 or 8:30 ?
+11/30/22, 20:00 - +91 98217 15290: 8:30
+11/30/22, 20:00 - +91 6290 268 376: Thanks
+11/30/22, 20:31 - Subhash Dixit: Did class start?
+11/30/22, 20:33 - Shobhandeb Paul: Na
+11/30/22, 20:33 - +91 6290 268 376: Not yet
+11/30/22, 20:38 - +91 90129 22002: Is it started?
+11/30/22, 20:38 - Shivan @Ineuron YT Creatoy: yes
+11/30/22, 21:50 - +91 98610 45001: Is this group for may 2022 batch?
+11/30/22, 21:51 - +91 93258 66289: Yes
+11/30/22, 21:52 - +91 98610 45001: 👌👌👌
+11/30/22, 22:30 - +91 94500 61215: Hey.. Bros
+11/30/22, 22:31 - +91 94500 61215: <Media omitted>
+11/30/22, 22:35 - +91 98675 46451: Box plot se zyada easily pata chalega
+11/30/22, 22:39 - +91 94500 61215: Bro
+... Test ka question h..
+11/30/22, 22:39 - +91 94500 61215: To aise hi puch rhe
+11/30/22, 22:39 - +91 94500 61215: Koi idea
+11/30/22, 22:39 - +91 94500 61215: Kisi ko
+11/30/22, 22:40 - +91 96859 11215: B
+11/30/22, 22:54 - Subhash Dixit: b
+11/30/22, 22:57 - +91 79755 70668: B
+11/30/22, 22:57 - +91 94500 61215: Ya
+11/30/22, 22:57 - +91 94500 61215: Thanks.
+12/1/22, 01:11 - +91 99397 90052: At 17 Team leader has come in lieu of Acting team Leader madam.
+12/2/22, 15:29 - +91 96404 90672: Guys ,while building classification model in end to end projects are we supposed impliment every possible model Like  Logistic regression,SVM,Randomforest, Xgboost, etc... and compare them ?
+12/2/22, 15:33 - +91 81785 68253: I've got this same question too
+12/2/22, 15:33 - +91 93903 94878: Yes
+12/2/22, 16:02 - +91 98610 45001: Yes, you will have to choose the model which will give higher accuracy
+12/2/22, 16:22 - +91 79997 44064: Do any one know...how to fetch html page's  h1 attribute text in python
+12/2/22, 16:27 - +91 81449 29155 joined using this group's invite link
+12/2/22, 17:01 - +91 98675 46451: Not necessarily although that'll be definitely better, but i feel you can eliminate few algos which you feel will perform less than the other for example logistic will obviously perform lesser than randomforest
+12/2/22, 17:04 - +91 85490 02123: <Media omitted>
+12/2/22, 17:04 - +91 85490 02123: <Media omitted>
+12/2/22, 17:04 - +91 85490 02123: <Media omitted>
+12/2/22, 17:05 - +91 85490 02123: Can anyone help me out how we take multiple columns as Y test and training features
+12/2/22, 17:06 - +91 85490 02123: Can some one help me out this problem
+12/2/22, 17:06 - +91 85490 02123: Please
+12/2/22, 17:11 - +91 85490 02123: For multiple columns as  labels
+12/2/22, 18:08 - Shobhandeb Paul: use iloc
+12/2/22, 19:06 - Shivan @Ineuron YT Creatoy: End To End NLP Project Discussion [ NER Project ]
+Description
+Let’s have a detailed explanation about (not limited to): -End to End End to End NLP Project Discussion [ NER project ] ( Modular coding approach)
+NLP Project project life cycle.
+Understanding about the Encoder Decoder
+Intuition Behind Transformers Explanation
+Understanding about Named Entity Recognitions
+Build end to end code explanation
+Web Application creation
+Deployment ( If time allow we will cover GitHub pipeline )
+How to add projects in Resume.
+How to Explanation during Interview
+QA Sessions
+
+Book your slot here: https://lnkd.in/giN--JBR
+
+Keeping yourself relevant in the industry
+
+I will be happy to share my experience. You can consider it as one more opinion while deciding. Let’s make it happen together!
+12/2/22, 19:18 - +91 85490 02123: The results after model testing i want University as well as course recommendation
+12/2/22, 19:57 - +91 90042 57538: I want to combine nested list how can I do that?
+12/2/22, 19:59 - Subhash Dixit: Are you going to create NLP project from end to end by writing code ?
+12/2/22, 20:01 - Shivan @Ineuron YT Creatoy: yes
+12/2/22, 20:02 - Subhash Dixit: Thanks for the reply
+12/2/22, 20:16 - +91 70206 63067: Any prerequisite for joining this project
+12/2/22, 20:23 - Shivan @Ineuron YT Creatoy: No
+12/2/22, 20:25 - Shobhandeb Paul: I haven't checked the dataset, will check and confirm
+12/2/22, 20:29 - +91 85490 02123: Sure thanks
+12/3/22, 16:09 - +91 98217 15290: Konsa topic padha rhe sir aaj??
+12/3/22, 16:25 - +91 95959 59773: Project
+12/4/22, 10:51 - Shivan @Ineuron YT Creatoy: Any one who is interested in the field of Data is welcome here. We will share free and quality resources in this field.
+**Data Science Learning:**
+Chanel link: https://t.me/datascience_learnings
+
+**Data Science job updates**
+Chanel link: https://t.me/jobanalytics
+
+You can share with your friends
+12/4/22, 16:37 - +91 98111 07575: Do we use SmoteToMek for d imbalanced dataset in the industry ??
+
+Pls advise if ur company is using dis approach
+12/4/22, 17:51 - +91 80584 18138 joined using this group's invite link
+12/4/22, 19:08 - +91 81785 68253: Does anybody think the way Avnish is explaining things to us, that's sufficiently understandable? I'm having a hard time understanding the project.
+12/4/22, 19:08 - Subhash Dixit: Obviously no
+12/4/22, 19:10 - +91 81785 68253: If a get the similar response from a couple of more people then I'll have to drop it to the iNeuron team. I believe they will handle it maturely.
+12/4/22, 19:13 - Subhash Dixit: They will not do anything
+12/4/22, 19:13 - Subhash Dixit: Krish sir should teach
+12/4/22, 19:14 - +91 81785 68253: They definitely won't if we don't flag it
+12/4/22, 19:15 - +91 95813 88411: Agree Not sufficient
+12/4/22, 19:15 - Subhash Dixit: I have already sent multiple emails and they didn't reoly
+12/4/22, 19:15 - +91 95813 88411: Even I also send mail but no response
+12/4/22, 19:16 - Shobhandeb Paul: they dont have any other option, rather than to re record the session
+12/4/22, 19:16 - +91 98250 15084: i have also send mail
+12/4/22, 19:16 - Shobhandeb Paul: or take extra class
+12/4/22, 19:17 - +91 98250 15084: bt they are not giving satisfactory reply
+12/4/22, 19:17 - Subhash Dixit: Krish sir should take extra class
+12/4/22, 19:17 - Shobhandeb Paul: that's y they wont do it
+12/4/22, 19:17 - Shobhandeb Paul: bolna pdega milke
+12/4/22, 19:17 - Shobhandeb Paul: ek grp mail kro
+12/4/22, 19:18 - +91 81785 68253: Were those email regarding the same issue related to Avnish?
+12/4/22, 19:18 - +91 81785 68253: Sunny was indeed way better
+12/4/22, 19:19 - +91 99227 66661: Have you guys tried seeing those recordings at lesser speeds ?
+12/4/22, 19:19 - +91 81785 68253: I did, but that too didn't help. I eventually had to rely on Google most of the time
+12/4/22, 19:20 - +91 81785 68253: Anyways I'm dropping an email to Divyanshu regarding this. I hope to hear from him soon with a solution
+12/4/22, 19:21 - +91 89995 47341 joined using this group's invite link
+12/4/22, 19:22 - +91 89995 47341: Hi komal from this side,
+
+Just now I heard from Sahil that you too are facing a problem to understand the project.
+So we should get united and drop a mail to Krish sir, sudhanshu sir...
+
+Otherwise things won't change and it will be just a waste of our time. 
+We can't compromise with our time at this stage.
+What do you all say???
+12/4/22, 19:23 - +91 81785 68253: Agreed. And in case they don't listen(which i doubt will happen) I've got a workaround.
+
+We can start flagging it over the emails and wait for a few days
+12/4/22, 19:24 - +91 86178 08574: The hands on being done correctly according to me, there should have been knowledge check or coding assignment after every session to improve the understanding
+12/4/22, 19:24 - +91 89995 47341: Yeah what we can do is rather than mailing individually
+We can take all our e-mail IDs and send one mail..
+
+They can ignore individuals mail but can't ignore group mail.
+12/4/22, 19:25 - +91 86178 08574: not being done correctly*
+12/4/22, 19:25 - +91 86178 08574: +1
+12/4/22, 19:25 - Subhash Dixit: Yes
+12/4/22, 19:26 - Subhash Dixit: He is better..
+12/4/22, 19:26 - +91 89995 47341: Tbh, there are still many who do have problems with sunny too.
+12/4/22, 19:27 - +91 99875 64492: lets drop a mail with same subject line
+12/4/22, 19:27 - +91 99227 66661: When will they complete the project ?
+12/4/22, 19:27 - +91 89995 47341: We paid because Krish sir and sudhanshu sir were going to teach us. But now the scenario is quite different .
+12/4/22, 19:28 - Subhash Dixit: But he keeps explaining till we understand
+12/4/22, 19:28 - +91 99875 64492: Exactly that's what i am saying from last 3-4 weeks
+12/4/22, 19:28 - +91 79855 54980: He left ineuron
+12/4/22, 19:28 - +91 89995 47341: That's great
+12/4/22, 19:28 - +91 99875 64492: he was present yesterday
+12/4/22, 19:29 - +91 90042 57538: Even today also
+12/4/22, 19:29 - +91 81785 68253: Because of that reason we can't compromise with our learning. We understand that but can't really compromise
+12/4/22, 19:29 - +91 79855 54980: May be serving notice period 😐
+12/4/22, 19:30 - +91 79755 70668: Can we all raise this in the class time when Krish is there
+12/4/22, 19:30 - +91 97168 98919: That is sunny bhaveen chandra, who left iNeuron.
+12/4/22, 19:30 - +91 89995 47341: Sure definitely but he should look into that
+Otherwise he easily ignores everything
+12/4/22, 19:30 - +91 79855 54980: When it comes to prectical topics they do like that .. 
+Same will be done when it come with computer vision ... 
+I have seen previous videos in deep learning course ...
+12/4/22, 19:31 - +91 79855 54980: Yes .. he left
+12/4/22, 19:31 - Subhash Dixit: <Media omitted>
+12/4/22, 19:31 - +91 79855 54980: <Media omitted>
+12/4/22, 19:32 - +91 79855 54980: This is LinkedIn page of sunny bhaveen Chandra
+12/4/22, 19:33 - +91 99875 64492: he is not present from start of the course, Sunny Savita teaches for this course sometimes
+12/4/22, 19:33 - +91 79855 54980: Sudhanshu and Krish .. only teach theoretical concepts .. when it comes to project and other things .. it get shifted to other mentors
+12/4/22, 19:34 - +91 89995 47341: Anyhow the sunny which is mentioned here is not in iNeuron now
+12/4/22, 19:34 - +91 79755 70668: Yes we can request like we are not able to understand , I think this approach may help us when we raise this to Krish. Krish can't take atleast   Sunny should take our session bcoz we are adjusted to his wavelength
+12/4/22, 19:34 - Shobhandeb Paul: somebody write mail, wnd and attach our consent for the problem
+12/4/22, 19:35 - Subhash Dixit: Acha
+12/4/22, 19:36 - +91 79855 54980: Yes
+12/4/22, 19:39 - +91 97168 98919: He would be teaching us AI and Deep learning.
+12/4/22, 19:40 - +91 89995 47341: Seriously?
+12/4/22, 19:41 - +60 11-2419 2738: 😄we are gone.
+12/4/22, 19:42 - +91 79855 54980: 🤣🤣 he left the institute bro
+12/4/22, 19:42 - +91 90042 57538: I think code wise we are able to understand, maybe because he fumbled while talking most of us are facing issue but I think if we re-watch few more time it's good to understand, I'm also facing issue while remembering all steps...like how many file we need to create and components and all things...but for this things I don't they will change the mentor...this is what I think
+12/4/22, 19:42 - Shobhandeb Paul: happily 😀
+12/4/22, 19:44 - +91 89995 47341: How many times should we watch ???
+12/4/22, 19:44 - Subhash Dixit: They should provide some notes in a sequential manner where all the description about filles will be there so that we can read and understand
+12/4/22, 19:45 - Shobhandeb Paul: exactly my point
+12/4/22, 19:45 - +91 90042 57538: Yes we can ask for that
+12/4/22, 19:45 - +91 79855 54980: More importantly 
+. 
+In Deep learning .. ANN and CNN is entirely taken by sunny .. he left .. 
+So don't know who will fill in
+12/4/22, 19:45 - +91 90042 57538: This is possible
+12/4/22, 19:45 - +91 90042 57538: But changing mentor I don't think...
+12/4/22, 19:45 - Shobhandeb Paul: Lets see what happens then we raise concern
+12/4/22, 19:46 - Shobhandeb Paul: btw who is writing the mail, please mention
+12/4/22, 19:46 - Shobhandeb Paul: this
+12/4/22, 19:46 - Shobhandeb Paul: atleast that will b handy, easy to take on
+12/4/22, 19:48 - +91 99875 64492: My suggestion is write a mail with same subject line to Krish and sudhanshu....
+12/4/22, 19:57 - +91 81785 68253: +1
+12/4/22, 19:58 - +91 98250 15084: +1  
+Same subject and same messege
+12/4/22, 19:58 - +91 75880 03618: Yes
+12/4/22, 19:58 - +91 98250 15084: and this time when they send mail for live class feedback . 
+at that time also . give then 1 stars
+12/4/22, 19:59 - +91 98250 15084: this will definately reach to there ears
+12/4/22, 20:01 - +60 11-2419 2738: Yes
+12/4/22, 20:03 - +91 95959 59773: As far concern Avnish,I think he is giving his 100%. He is hardcoding everything in modular way with MLOps.Initially I also find it difficult to understand because didn't practice OOPs and file handling.
+12/4/22, 20:04 - +60 11-2419 2738: File handling  Class date?
+12/4/22, 20:05 - +91 95959 59773: I will suggest go through CampusX channel for python and ML.You will definitely not find any difficulty in OOPs.
+12/4/22, 20:09 - +91 95959 59773: I didn't find it in dashboard right now. But it was there in one of session .
+12/4/22, 20:09 - +91 89995 47341: With huge respect to you aniket,
+Just tell me one thing why we paid 17k to iNeuron???
+12/4/22, 20:09 - +91 81785 68253: See that's where the problem lies. With Sudhanshu, Krish and Sunny we didn't have to read anything extra. So now we have spare some extra time to understand what he explained in 3 hour long session
+12/4/22, 20:10 - +91 81785 68253: As soon as I'm dropping an email, I'll share the subject line here
+12/4/22, 20:10 - +91 89995 47341: Sure
+12/4/22, 20:11 - +60 11-2419 2738: Plz share subject line and mail body you write.
+12/4/22, 20:15 - +91 95959 59773: Guys they have taken theoretical concept and Avnish is taking practical concept which is kind of pro level with MLOps.We have to practice more.For MLOps lectures are there on dashboard.Go through it.
+12/4/22, 20:16 - +91 98250 15084: Aniket ..if you understand it.. then it fine.. 
+
+Bt we have also paid.. 
+And they should teach like everybody should understand..
+12/4/22, 20:16 - +91 98250 15084: It is not about 1-2 students..
+12/4/22, 20:16 - +91 98250 15084: Every student of may 2022 batch should understand..
+12/4/22, 20:17 - +91 98250 15084: And they should not go to next topic untill each and every student has the whole concept clear in mind.
+12/4/22, 20:17 - +91 90042 57538: What you are not understanding??
+12/4/22, 20:18 - +91 89995 47341: Exactly
+12/4/22, 20:18 - +91 98250 15084: Project part from day 2..
+12/4/22, 20:18 - +91 95959 59773: Guys it all about OOPs.Can we ask to take it again?
+12/4/22, 20:18 - +91 90042 57538: Coding wise?
+12/4/22, 20:19 - +91 98250 15084: Yes
+12/4/22, 20:19 - +91 95959 59773: https://youtu.be/Trvqq5w7-0Q
+12/4/22, 20:20 - +91 95959 59773: Go through this plyalist
+12/4/22, 20:21 - +91 95959 59773: It might help
+12/4/22, 20:21 - +91 95959 59773: This is free
+12/4/22, 20:21 - +44 7831 624309: It's 799/month if we have to enroll
+12/4/22, 20:22 - +91 95959 59773: If we need mentorship
+12/4/22, 20:23 - +91 95959 59773: Your all doubt related to Avnish coding will get resolved once you go through it.
+12/4/22, 21:05 - +91 79755 70668: Thank u Ankit.
+12/4/22, 21:11 - +91 81785 68253: What's the email ID of divyanshu and Krish can someone please share?
+12/4/22, 21:23 - +91 89995 47341: sudhanshu@ineuron.ai
+krish.naik@ineuron.ai
+12/4/22, 21:40 - +91 81785 68253: Mail sent to them with subject line *"[Urgent] Concern regarding live classes"*
+12/4/22, 21:52 - +91 98250 15084: What is written in content.. ?
+12/4/22, 21:54 - +91 81785 68253: I just mentioned that I'm unable to understand whatever Avnish is explaining and the same is other's experience too. So they may let Sunny take the sessions
+12/4/22, 21:56 - +91 98250 15084: Okk.. 
+I also send same mail
+12/4/22, 21:56 - +91 81785 68253: Perfect 👍🏻
+12/4/22, 22:14 - +91 90129 22002: But Avanish is project expert that's why he is taking classes, as told by Krish sir himself in the beginning of project. If sunny could, they wouldn't have call Avanish.
+12/4/22, 22:16 - +91 81785 68253: That might be but my job was to make them aware of the problem that I'm facing at first. I can have a discussion with them if they are up for it and accordingly come to a conclusion
+12/4/22, 22:18 - +91 90129 22002: You guys also want it to be industry standard. So I think it requires little extra effort. I am also facing the difficulty but i know only i need to pay more attention and put some more efforts
+12/4/22, 22:20 - +91 81785 68253: Industry standard? Sorry i didn't get that
+12/4/22, 22:21 - +91 79997 44064: +1
+12/4/22, 22:22 - +91 98250 15084: +1
+12/4/22, 22:22 - +91 90129 22002: This is just replication of real problem and when it comes to the real scenario things may be more complex and tougher. Why don't you start thinking like you are dealing with some real problem and you have to deal with it instead of blaming and other things
+12/4/22, 22:24 - +91 90129 22002: The level of work you have to do after joining
+12/4/22, 22:25 - +91 81785 68253: Makes sense but the question that i have for myself now is "Should i spend my time on these live classes anymore or not?". Because the expectations from the day 1 had been set that the content being delivered in these classes is sufficient enough and there is no need to go through anything else. So far things were going well, now it took a downturn from last week which is not justified according to me.
+12/4/22, 22:26 - +91 81785 68253: Before that we need to understand the basics. If I'm unable to understand the flow of execution, how can i build a project?
+12/4/22, 22:28 - +91 98250 15084: right
+12/4/22, 22:28 - +91 90129 22002: It will take time, so better to give yourself some time to digest these things
+12/4/22, 22:28 - +91 90042 57538: +1
+12/4/22, 22:30 - +91 90129 22002: Try to remember when you started learning python. Initially we didn't get anything but slowly our grip getting tighter and tighter
+12/4/22, 22:31 - +91 90129 22002: And when you go back after some time, then you realise how easy it was.
+12/4/22, 22:31 - +91 95952 53520: 90+ % people not understand Avnish code
+12/4/22, 22:32 - +91 90042 57538: No they are facing issue regarding to explanation
+12/4/22, 22:32 - +91 90042 57538: Few of them have problem with code
+12/4/22, 22:33 - +91 95952 53520: Yes.... Explanation
+12/4/22, 22:33 - +91 90129 22002: What if this is the reality of work you are going to do or what people expect you to do?
+12/4/22, 22:34 - +91 95959 59773: I will suggest go through the ML project session taken by Sudhanshu sir that are available on dashboard.
+12/4/22, 22:34 - +91 95959 59773: There is no excuse for hardwork
+12/4/22, 22:35 - +91 81785 68253: Initially i was able to understand things with great ease. Also we knew it that we were in the right hands. I've been watching Krish videos from a long time and that's where that trust was developed.
+
+Speaking of giving more time, i honestly have less time for experimentations. Most of us are working and time is valuable for us.
+Let's say 1 month down the line we could not understand anything at all. This 1 month of time will be go in vain.
+12/4/22, 22:36 - +91 81785 68253: Problem is with the explanation, not with the code i guess.
+12/4/22, 22:37 - +91 81785 68253: I think you currently are working in tech role? Please correct me if I'm wrong
+12/4/22, 22:39 - +91 90129 22002: I have gone through last year ml project recordings, only explanation was there code was written already.
+12/4/22, 22:40 - +91 81785 68253: That might help as i believe understanding the concept is more important
+12/4/22, 22:40 - +91 90129 22002: I think this is great opportunity for us to see how they use to write code.
+12/4/22, 22:40 - +91 90129 22002: No I'm student only
+12/5/22, 00:18 - +91 79855 54980: Just by seeing .. we might feel ok .. at that point but going ahead .. when v have to do it by ourselves.. we will get stuck
+12/5/22, 10:03 - Shivan @Ineuron YT Creatoy: https://youtu.be/MhWRwkrwJjY
+12/5/22, 22:00 - +91 98250 15084: <Media omitted>
+12/5/22, 22:00 - +91 98250 15084: My feedback of live class..
+12/5/22, 22:15 - +91 99397 90052: Yes it is true.
+12/5/22, 22:18 - +91 98182 66826: Totally Agree with this. Same feeling bro. Every working professional is short of spare time, very hard to manage work time, along with family and study things at the same time as they are going on.. Even I am now feeling cornered for the zeal of my transition.. till python, everything was going smooth and great. Starting ML, everything got mixed up..
+12/5/22, 22:25 - +91 99397 90052: We have to study prepared by our own then only it's helpful. Even in explaining/teaching also very very fast and hurriedly they want to finish if we learnt or not. This is what I am feeling and experiencing in ineuron sir.
+12/5/22, 22:27 - +91 98250 15084: Plz write all this in feedback form..
+12/5/22, 22:28 - +91 98182 66826: Y v hv paid. When we had to study by own. Courses available there at YouTube. Just watch and prepare urself. Please don't mind, take it in a healthy manner.
+12/5/22, 22:29 - +91 98182 66826: Not much difference than school then, it means. They also teach fast and in hurry and we have to prepare us by self
+12/5/22, 22:39 - +91 97168 98919: See, while constructing a building important thing is the foundation and pillars. Building the walls are other things are relatively easy, though time taking but are easy.  Foundation of python and ML is  been laid down by the Sudhanshu and Krish naik. Now rest of the things are easy and need to be done on our own. 
+
+See, you need to come out of this mind makeup like every line of code needs to run and executed in front of you and when everyone understands then write another line of code. If this is the case then whats the use to invest 6 months in learning python code. And with this speed even a year would be less for you to complete the project. 
+
+I am not advocating the iNeuron but things are not that difficult. 
+
+Yes understanding the codes are difficult and for that you need to sit and watch.
+12/5/22, 22:46 - +91 97168 98919: See, first self study is key to success, eventually, you have to read on your own. If you are not doing self study, even 100 times krish will explain every thing still there are chances that will miss one or more concepts. 
+
+If you have numbers from 1 to 100 in your course then whats the use going beyond 100. And you learn those numbers very fast then how can you say that are teaching very very fast. See they can go on repeating same concept 4 - 5 times in a class. Thats not feasible. 
+
+So better do self study. Just my suggestion
+12/5/22, 22:48 - +91 99397 90052: Yes. That's what I have been following.
+12/5/22, 22:48 - +91 90042 57538: Follow what sunny sir told us in today's class
+12/5/22, 23:34 - +91 6398 155 889: This message was deleted
+12/6/22, 12:09 - +91 94500 61215: <Media omitted>
+12/6/22, 12:17 - +91 97168 98919: Petal length and petal width
+12/6/22, 12:18 - +91 94500 61215: bro..but why?
+12/6/22, 12:18 - +91 94500 61215: and it is taking about,,in which cluster making good
+12/6/22, 12:21 - +91 97168 98919: <Media omitted>
+12/6/22, 12:22 - +91 97168 98919: This is the source of my answer. I don't have reason but I think this could be correct
+12/6/22, 12:43 - Shivan @Ineuron YT Creatoy: https://youtu.be/1RgvaPhXkKk
+12/6/22, 12:52 - +91 76069 87853 joined using this group's invite link
+12/6/22, 15:37 - Shobhandeb Paul: which book
+12/6/22, 16:03 - +91 96404 90672: Guys any one has notes for Time series.I can't see it in resources section ..
+12/6/22, 16:54 - +91 97168 98919: <Media omitted>
+12/6/22, 23:20 - +91 90042 57538: <Media omitted>
+12/6/22, 23:30 - Shobhandeb Paul: thanks buddy ✌️
+12/6/22, 23:35 - +91 96698 39680: Thank you
+12/6/22, 23:37 - +91 84119 11153: Thanks 👍
+12/7/22, 00:43 - +44 7831 624309: https://t.me/DataScience_224
+
+Some good materials shared here
+12/7/22, 02:47 - Subhash Dixit: In linear regression, if accuracy is not improving by removing correlated variables or less significant variables, then which is better? Should i remove the variables or not?
+12/7/22, 10:02 - Shivan @Ineuron YT Creatoy: <Media omitted>
+12/7/22, 10:04 - +60 11-2419 2738: Ok
+12/7/22, 23:06 - +91 99875 64492: Add data
+12/7/22, 23:14 - Subhash Dixit: Should I remove the variables or not?
+12/7/22, 23:15 - Shobhandeb Paul: yes, or try to combine any other column to get a new column, that might add value
+12/7/22, 23:16 - Subhash Dixit: okay
+12/9/22, 18:25 - Shivan @Ineuron YT Creatoy: https://youtu.be/f5__pMhdCZw
+12/9/22, 18:28 - Subhash Dixit: Tomorrow or day after tomorrow? It is mentioned as Sundays
+12/9/22, 18:28 - Shivan @Ineuron YT Creatoy: Tomorrow and day after tomorrow as well
+12/9/22, 18:28 - Shivan @Ineuron YT Creatoy: Seperate session don't worry
+12/9/22, 21:26 - +91 94500 61215: <Media omitted>
+12/9/22, 21:26 - +91 94500 61215: Open nhi ho rhi
+12/9/22, 21:29 - +91 99675 57017: It's working
+12/9/22, 21:33 - +91 94500 61215: Ya.. Network issue
+12/9/22, 23:47 - Subhash Dixit: Can we consider our model to be general if differences between test and train accuracy (adjusted r squared) is 6%? Traini accuracy: 96 and test accuracy : 90
+12/10/22, 00:57 - +91 81785 68253: I think it's general, 6% isn't much
+12/10/22, 01:11 - Subhash Dixit: Okay. Thanks
+12/10/22, 12:19 - Shivan @Ineuron YT Creatoy: https://youtu.be/4SkeMldbFaE
+12/10/22, 16:05 - +91 6290 268 376: If anybody has completed model tuning for sensor project. Please share GitHub link for reference.
+12/12/22, 18:27 - +91 99227 66661: This message was deleted
+12/12/22, 18:28 - +91 99227 66661: Do we have class on weekends ?
+12/12/22, 18:51 - +91 79855 54980 changed to +91 99187 66728
+12/12/22, 18:52 - +91 99187 66728 changed to +91 79855 54980
+12/12/22, 18:58 - +91 81785 68253: I believe yes
+12/12/22, 18:59 - +91 99227 66661: No I mean sir said they will have a holiday right
+12/12/22, 18:59 - +91 99227 66661: thatswhy they took additional sessions
+12/12/22, 19:04 - Shivan @Ineuron YT Creatoy: New data science learners frequently struggle with the decision of whether to pursue careers as data scientists or data analysts. Here, you will find complete guidance on both fields.
+
+https://youtu.be/bTxHhSrgoik
+12/12/22, 21:54 - +91 90042 57538: Which topic is sir is teaching??
+12/12/22, 21:55 - Shobhandeb Paul: text classification with Naïve Bayes
+12/12/22, 22:02 - +91 97176 81545: This is not for our batch
+12/12/22, 22:03 - +91 79855 54980: But easy to understand
+12/12/22, 22:03 - +91 97176 81545: This is for may batch
+12/12/22, 22:03 - +91 90042 57538: I'm from may batch
+12/12/22, 22:04 - +91 97176 81545: Ok
+12/12/22, 22:04 - +91 97176 81545: Sorry bro I'm from September batch
+12/12/22, 22:04 - +91 84119 11153: +1
+12/12/22, 22:25 - +91 70206 63067: <Media omitted>
+12/12/22, 22:26 - +91 70206 63067: Can anyone answer this
+12/12/22, 22:48 - +91 79755 70668: Card Visual and Edit interactions
+12/12/22, 22:51 - +91 98250 15084: what is this ??
+12/13/22, 00:37 - +91 70206 63067: Some questioner from one workshop my friend attended
+12/13/22, 00:38 - +91 98250 15084: Ok
+12/13/22, 19:25 - +91 90218 58584: Guys did this problem with avnish mentor got solved?
+12/13/22, 19:27 - +91 81785 68253: Don't know but in the last class he explained the project structure clearly and that was understandable to me
+12/13/22, 23:41 - Shivan @Ineuron YT Creatoy: https://youtu.be/vJFIBXRnPUc
+12/14/22, 20:27 - Subhash Dixit: Aaj class h kya?
+12/14/22, 20:32 - +91 88904 56326: What class?
+12/14/22, 20:34 - Subhash Dixit: 8:30 extra class
+12/14/22, 20:34 - Subhash Dixit: Link is there in the dashboarding
+12/14/22, 20:35 - Shobhandeb Paul: na aaj nhi h
+12/14/22, 20:35 - +91 70237 56844: No
+12/14/22, 20:47 - Subhash Dixit: Okay thanks
+12/16/22, 11:56 - Shivan @Ineuron YT Creatoy: Have you ever wondered how to do Exploratory Data Analysis?
+Would you like to know to how to find insights from data?
+
+Below you can find complete Data Analysis Series on different Kaggle Dataset.
+
+Hotel Booking Data Analysis Project: https://lnkd.in/dD4S2phy
+
+IPL Data Analysis Project: https://lnkd.in/d7T2XaRn
+
+Restaurant Review Prediction Project: https://lnkd.in/dsVVKT6p
+12/17/22, 15:13 - Subhash Dixit: When will Sunny start teaching?
+12/17/22, 15:22 - +91 81785 68253: 03:30
+12/17/22, 15:22 - Subhash Dixit: Thanks
+12/17/22, 15:29 - +91 81785 68253: No probs
+12/17/22, 20:31 - Shivan @Ineuron YT Creatoy: <Media omitted>
+12/17/22, 20:31 - Shivan @Ineuron YT Creatoy: Now, iNeuron to Collage Wallah
+12/17/22, 20:32 - Shobhandeb Paul: great
+12/17/22, 20:32 - +91 88619 37985: We will get more job opportunities...
+12/17/22, 20:32 - Shobhandeb Paul: what is the idea of the venture>
+12/17/22, 20:33 - Shivan @Ineuron YT Creatoy: Hope
+12/17/22, 20:33 - Shobhandeb Paul: @916280963446 ?
+12/17/22, 20:34 - +91 90042 57538: ❤️
+12/17/22, 20:34 - +91 90042 57538: Series bhi aaya hai
+12/17/22, 22:26 - +91 99875 64492: ab ye log bhi cringe reels banayenge 😓😓
+12/18/22, 10:27 - +91 77081 21800: Check out this job at PeopleLikeTheWordGrowth: https://www.linkedin.com/jobs/view/3404270924
+12/18/22, 10:28 - Shivan @Ineuron YT Creatoy: https://youtu.be/0ELK_49EL_o0
+12/18/22, 11:27 - +91 94500 61215: <Media omitted>
+12/18/22, 11:27 - +91 94500 61215: <Media omitted>
+12/18/22, 11:27 - +91 94500 61215: this i want.but above one is..outputt
+12/18/22, 11:28 - +91 94500 61215: bin_string = "1111111111000101000000000000000110000000000000000000000000011010"
+
+for idx, x in enumerate(bin_string, start=1):
+        print(idx, x)
+12/18/22, 11:28 - +91 94500 61215: code
+12/18/22, 11:28 - +91 94500 61215: anyone..
+12/18/22, 20:39 - +91 98368 99312: Hi all,  please like my page - https://www.instagram.com/datascience_random
+12/18/22, 20:43 - +91 98368 99312: Hi all,  please like my fb page- https://www.facebook.com/profile.php?id=100085554023750
+12/19/22, 12:04 - Shivan @Ineuron YT Creatoy: https://youtu.be/uOPZZrrcKKs
+12/19/22, 12:04 - Shivan @Ineuron YT Creatoy: Project live
+12/19/22, 13:02 - +91 97168 98919: Anyone interested to teach Data Science/ python in UpGrad LPU campus Punjab. 
+Please ping me 
+Salary: 50000 per month
+It's an urgent requirement
+12/19/22, 13:02 - Shobhandeb Paul: full time?
+12/19/22, 13:03 - +91 97168 98919: Yes fulltime and offline
+12/19/22, 14:21 - +91 79855 54980: Could u guys able to login to neurolab jupyter ??
+12/19/22, 14:21 - +91 79855 54980: Page
+12/19/22, 18:18 - +91 96698 39680: <Media omitted>
+12/19/22, 18:23 - +91 96859 11215: Wrong url probably. Which data set is this
+12/19/22, 18:28 - +91 96698 39680: No it's in my github earlier I used to get Data but now it's showing error
+12/19/22, 18:29 - +91 96859 11215: Which dataset?
+12/19/22, 18:38 - +91 96698 39680: Sensor fault
+12/19/22, 19:23 - +91 90909 52427: Hi, facing issue with 27 nov class.
+Avnish was too fast. Audio & video not sync
+12/19/22, 22:49 - Shivan @Ineuron YT Creatoy: Guys, I need some advice, What kinds of projects are you looking for, please? Machine Learning, Deep Learning or Advanced NLP, Power BI?
+12/19/22, 22:49 - Shivan @Ineuron YT Creatoy: On my Youtube Channel
+12/19/22, 22:49 - Shivan @Ineuron YT Creatoy: Kindly suggest
+12/19/22, 22:50 - Subhash Dixit: Deep learning of advanced NLP
+12/19/22, 22:55 - Shivan @Ineuron YT Creatoy: Okay, thanko you
+12/19/22, 22:55 - Shivan @Ineuron YT Creatoy: as for the current market standard, let me select NER or Question Generation related project
+12/19/22, 22:55 - Shobhandeb Paul: +1
+12/19/22, 22:56 - Subhash Dixit: Can you please include the code in the description
+12/19/22, 22:58 - Shivan @Ineuron YT Creatoy: Updated
+12/19/22, 22:59 - Subhash Dixit: Thanks
+12/19/22, 23:00 - Shivan @Ineuron YT Creatoy: Now, i'm going to announce, raise your demand, It will be available in next 15 days. but makesure, for the project notification you can subscribe here: https://www.youtube.com/@engineeringwalabhaiya
+12/20/22, 22:29 - Subhash Dixit: Can someone tell me how to create virtual environment in windows?
+12/20/22, 22:29 - Subhash Dixit: I'm trying and it is giving some permission error
+12/20/22, 23:28 - +91 96859 11215: Are you trying in pycharm? 
+Try opening it in admin mode or create a venv where you want manually through cmd and add it to pycharm project
+12/20/22, 23:29 - +44 7831 624309: Hello All, has anyone try to have maintain project using a local vscode rather than using neurolab
+12/20/22, 23:32 - Shivan @Ineuron YT Creatoy: <Media omitted>
+12/20/22, 23:33 - +44 7831 624309: What's pw?
+12/20/22, 23:34 - +91 97168 98919: In pycharm
+12/20/22, 23:35 - +91 76088 83617: I have
+12/20/22, 23:35 - +44 7831 624309: Vscode? I mean for complete project
+12/20/22, 23:40 - +44 7831 624309: Thanks, could you be able to give some sort of a how to? As during the lesson they said to stick to lab as more installation is required if need to be done locally...I tried myself but got few error and stopped then to catch up with lessons
+12/20/22, 23:45 - +91 76088 83617: How to what ?
+12/20/22, 23:54 - Subhash Dixit: Thanks
+12/20/22, 23:55 - Subhash Dixit: I am trying to use streamlit but getting many errors related to python version. Did anyone try streamlit every?
+12/21/22, 07:47 - +91 97309 42181: Gae 🐃🐃 pani me
+12/21/22, 07:47 - +91 97309 42181: Hame koi phayda hai kya ese se
+12/21/22, 09:08 - +91 94500 61215: Paise waapas maang lo
+12/21/22, 09:08 - +91 94500 61215: 😂😂
+12/21/22, 09:29 - +91 96859 11215: Is this a rebrand or their courses will now also be on pw skills🤔
+12/21/22, 09:57 - +91 6290 268 376: To get rid of the permission error I ran the below command in power shell and it is working for me now. I am using VS Code in my local
+12/21/22, 09:57 - +91 6290 268 376: Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+12/21/22, 10:10 - Subhash Dixit: Yup, same thing I have done and it is working. But still not able to run streamlit. Some python version issue is there
+12/21/22, 12:07 - Shivan @Ineuron YT Creatoy: https://youtu.be/6Okg6dDIuLI
+12/21/22, 12:07 - Shivan @Ineuron YT Creatoy: Live now
+12/21/22, 12:07 - Shivan @Ineuron YT Creatoy: Guys, if possible please subscribe and share with your friends as well
+12/21/22, 13:58 - +91 90129 22002: <Media omitted>
+12/21/22, 14:03 - +91 76088 83617: I did
+12/21/22, 14:03 - +91 76088 83617: Do one thing 
+Use Apache version 2.2
+12/21/22, 14:05 - +91 76088 83617: *2.2.4
+12/21/22, 14:21 - +91 90129 22002: You mean apache-airflow==2.2.4
+12/21/22, 14:31 - +91 90129 22002: It worked thank you
+12/21/22, 14:40 - +91 76088 83617: Welcome
+12/22/22, 18:19 - +91 90218 58584: <Media omitted>
+12/22/22, 18:19 - +91 90218 58584: https://m.economictimes.com/tech/startups/physicswallah-forays-into-upskilling-with-ineuron-acquisition/articleshow/96425757.cms
+12/22/22, 18:26 - +91 90218 58584: If they ain't providing job guarantee they should atleast provide job assistance stuff like mock interviews
+12/22/22, 18:27 - +91 79755 70668: So this is the reason Krish is not taking our ML classes 😐
+12/22/22, 18:28 - +91 97309 42181: Bhai L lag gaye fir,
+12/22/22, 18:28 - +91 97309 42181: Refund chahiye hoga fir
+12/22/22, 18:28 - +91 99875 64492: Refund maango bc
+12/22/22, 18:29 - +91 97309 42181: Ha....
+12/22/22, 18:29 - +91 79855 54980: Ye kya Naya natak hain
+.
+12/22/22, 18:31 - +91 90218 58584: We should ask them whether job guarantee is there for ongoing batches
+12/22/22, 18:31 - +91 90218 58584: Also our internship
+12/22/22, 18:32 - +91 90218 58584: Is Krish Naik teaching in ML recorded videos?
+12/22/22, 18:34 - +91 77081 21800: May be it's for upcoming batches or they might provide an alternative service i guess
+12/22/22, 18:34 - +91 90218 58584: Yeah
+12/22/22, 18:35 - +91 79755 70668: I could see only Sunny has taken the classes.  Anyone in group can confirm..
+12/22/22, 18:35 - +91 90218 58584: Okay
+12/22/22, 18:41 - +91 95952 53520: Bhai refund chhoda.... Jo itna time gaya hai.......7 to 8  month
+12/22/22, 18:42 - +91 99675 57017: Current batch ke liye job guarantee program hai
+12/22/22, 18:42 - +91 95952 53520: Ek to Career Non IT to IT aane ke liye fsds join kiya tha
+12/22/22, 18:42 - +91 99675 57017: Upcoming batches ke liye nhi hoga
+12/22/22, 18:43 - +91 90218 58584: This message was deleted
+12/22/22, 18:43 - +91 90218 58584: Sudhanshu Sir taught ML in recorded classes
+12/22/22, 18:50 - +91 96859 11215: This article is worded wrong. 100% of S. Chand's stake is sold to PW. 
+It's a minority 6% stake they have in iNeuron
+12/22/22, 18:50 - +91 96859 11215: Alsoa i don't think existing programs won't have any change in their terms so no need to panick
+12/22/22, 18:52 - +91 79755 70668: I just now check the Discord and it is mentioned as Ineuron merger with PW
+12/22/22, 18:54 - +91 79755 70668: No need to panic. I hope we will get the content what they have promised
+12/22/22, 18:55 - +91 96859 11215: <Media omitted>
+12/22/22, 18:55 - +91 79755 70668: If anyone is joining today Class then anyone can confirm in the class itself
+12/22/22, 20:04 - +91 79855 54980: Par ye sab merger ka jarurat kya ta .. 
+Mast to chal raha ta ineuron ..
+12/22/22, 20:05 - +91 90042 57538: Teachers gareeb ho rahe hai
+12/22/22, 20:05 - +91 90042 57538: Isliye
+12/22/22, 20:06 - +91 90042 57538: null
+12/22/22, 20:08 - +91 90218 58584: It's just that S Chand has invested 7 crore in Ineuron  December 2021 that is 6% of total stake 
+And sold that stake to PW now for 14 crores
+So ineuron got a new and big investor that is PW
+12/22/22, 20:10 - +91 90042 57538: Just hope for they do not remove all the facilities they provided till now
+12/22/22, 20:10 - +91 90042 57538: Baki yarr karo kuch bhi
+12/22/22, 20:10 - +91 90218 58584: Last time also merger happened between LCO of Hitesh Sir and Ineuron
+12/22/22, 20:10 - +91 90218 58584: In April or May 2022
+12/22/22, 20:11 - +91 90218 58584: https://youtu.be/llDretTTw30
+12/22/22, 20:13 - Shobhandeb Paul: See iNeuron provided us a lifetime course material along with live classes, we cannot deny the fact.
+
+Moreover, why are pre-assuming that there is no job guarantee for our batch?
+
+We should focus on building our skills, as the recorded content is good on the provided cost, also not neglecting the fact that, many of us doesn't know basic things, as we depend on spoon feeding and depends on them
+12/22/22, 20:17 - Shobhandeb Paul: at the end of the day, everyone's target is good takeaway, so y dont they?
+12/22/22, 20:32 - +91 90218 58584: Yes we should truly be grateful for the quality and quantity of content we are getting from Ineuron for such affordable price. 
+
+In April I had applied for internship at some company and they reverted back with a NLP assignment but that time l couldn't solve it as I didn't even have a programming background.
+When l joined Ineuron l saw that same assignement project in the dashboard 
+So l was glad that l came to the right place
+12/22/22, 20:33 - Shobhandeb Paul: Those who are joining today's class, take a clarification abt the job guarantee we'all are worried abt,
+12/22/22, 20:33 - Shobhandeb Paul: one shot all will be cleared
+12/22/22, 20:33 - +91 90218 58584: Do this as top priority guys thanks
+12/22/22, 20:58 - +91 90218 58584: <Media omitted>
+12/22/22, 21:14 - +44 7831 624309: https://www.linkedin.com/posts/ineuron-ai_tech-ai-quality-activity-7011700868303523840-9WDJ?utm_source=share&utm_medium=member_android
+12/22/22, 21:28 - +91 78549 35445: <Media omitted>
+12/22/22, 22:49 - +91 70206 63067: don't worry job garranteed program will be there
+
+https://youtu.be/gV-f6cNIplU
+12/23/22, 07:26 - +91 79755 70668: https://www.livemint.com/companies/news/s-chand-sells-entire-stake-in-ineuron-to-physicswallah-at-rs-14-crore-11671701581246.html
+12/23/22, 07:28 - +91 79755 70668: This shows the reputation of iNeuron . In one year S Chand has double is amounts. That means we are in best place. 🥰
+12/23/22, 12:04 - Shivan @Ineuron YT Creatoy: https://youtu.be/zXpmaBx4fS4
+12/23/22, 12:04 - Shivan @Ineuron YT Creatoy: Live now
+12/25/22, 08:28 - +91 70582 99533 joined using this group's invite link
+12/25/22, 19:04 - +91 93903 94878: https://bwdisrupt.businessworld.in/article/Physics-Wallah-Acquires-100-Stake-In-iNeuron-For-Rs-250-Cr/24-12-2022-459331/
+12/26/22, 19:05 - Subhash Dixit: Hi all, 
+Did anyone try running flask app on local host using ineuro lab?
+12/26/22, 19:18 - Shobhandeb Paul: any problem u r facing?
+12/26/22, 19:28 - Subhash Dixit: Yes, not able to run flask or any webapp on kocalhost
+12/26/22, 20:50 - +91 88904 56326: What do to do to get a job as data analyst
+12/26/22, 20:51 - +91 88904 56326: Can anyone help help me with that
+12/26/22, 20:52 - +91 79855 54980: Basic Python
+SQL 
+Statistics
+Basic excel 
+EDA 
+Power Bi / Tableau.. 
+
+Storytelling
+12/26/22, 20:52 - +91 88904 56326: Okay do you have recommendation for statistic book
+12/26/22, 20:54 - +91 79855 54980: No.. 
+But if u r from FSDS batch 
+. Just go through the entire stats part from previous recorded sessions.. 
+Or watch out the entire Krish playlist on YouTube on statistics.. that will be best to start with..
+12/26/22, 20:56 - +91 79855 54980: Also learn a gud amount of probability also ..
+12/26/22, 21:11 - +91 88904 56326: Okay
+12/26/22, 21:12 - +91 88904 56326: Thanks
+12/26/22, 21:12 - +91 79855 54980: Ok
+12/26/22, 21:29 - Shobhandeb Paul: This message was deleted
+12/26/22, 21:29 - Shobhandeb Paul: This message was deleted
+12/27/22, 03:05 - +91 99397 90052: https://youtube.com/playlist?list=PLZ2ps__7DhBYrMs3zybOqr1DzMFCX49xG
+12/27/22, 03:08 - +91 90218 58584: Wow they made this available on youtube 
+Damn nice
+12/27/22, 03:09 - +91 99397 90052: Really wonderful for DS
+12/27/22, 03:10 - +91 90218 58584: 😂 we are getting IIT's course of data science for free
+12/27/22, 03:10 - +91 99397 90052: Yes definitely
+12/27/22, 03:14 - +91 99397 90052: With this(IIT Madrass statistics )  learning on power BI is very helpful. These two are very good combinations I found.
+12/27/22, 03:23 - +91 99397 90052: https://youtu.be/Gd2B3kUE6Y4
+12/27/22, 13:29 - +91 93719 83850: Using neurolab, the address localhost:portno will not work. Localhost needs to be replaced by your lab's url followed by port no. Something like this- url.ineuron.app:5000
+12/27/22, 13:32 - Subhash Dixit: Thanks bro. I will try this.
+12/27/22, 20:09 - +91 98111 07575: <Media omitted>
+12/27/22, 20:11 - +91 76088 83617: Give a specific version 
+May be that will work
+12/27/22, 20:12 - +91 98111 07575: Tried wid d same version even upgraded.. stil not working
+12/27/22, 20:24 - +91 76088 83617: Correct the spelling 
+apache-airflow
+12/27/22, 20:31 - +91 98111 07575: 🧐 much appreciated!! It worked..
+12/27/22, 23:10 - +91 81785 68253: Did anyone tuned hyper parameters of VotingClassifier using RandomSearchCV?
+It may sound strange but It's not taking more than 10 key value pairs of parameters.
+12/28/22, 00:47 - Shobhandeb Paul: can you share screenshot for the same
+12/28/22, 00:49 - +91 81785 68253: It was throwing some ValueError without exact message. The moment i remove a few parameters, it worked fine. Ill share the screenshot tomorrow but that may not be helpful
+12/28/22, 00:51 - Shobhandeb Paul: okay, inbox me the ss
+12/28/22, 00:52 - Shobhandeb Paul: then we can discuss the same
+12/28/22, 02:19 - +91 98368 99312: <Media omitted>
+12/28/22, 07:55 - +91 98677 16992: Uninstall it and then again install
+12/28/22, 09:52 - +91 93719 83850: Type extension is used to define data type annotations in python. It has nothing to do with parameter tuning. Also in line 8 and 9 you are reading CSV and doing profiling. You are not using type annotations here. You can delete imports at line 3,4,5.
+12/28/22, 12:06 - Shivan @Ineuron YT Creatoy: https://youtu.be/UPsBJA3beVs
+12/28/22, 13:47 - +91 98368 99312: Now it is working..thank you 👍
+12/28/22, 18:31 - +91 99227 66661: <Media omitted>
+12/28/22, 18:33 - +91 99379 99162: Check if there is space after -e. Remove it and try again
+12/28/22, 18:34 - +91 99227 66661: so -e . or -e
+12/28/22, 18:35 - +91 99379 99162: -e .
+12/28/22, 18:35 - +91 99379 99162: Check space after dot
+12/28/22, 18:35 - +91 99227 66661: space is not there
+12/28/22, 18:41 - +91 99227 66661: so what should I do ?
+12/28/22, 18:44 - +91 99379 99162: Sorry I don't know.
+ Once I was facing the same issue but it was resolved  by removing space.
+12/28/22, 18:45 - +91 99227 66661: oh ok
+12/28/22, 18:48 - +91 99227 66661: @919937999162 solved the problem
+12/28/22, 18:48 - +91 99227 66661: thanks
+12/28/22, 18:49 - +91 99227 66661: I made spelling mistake
+12/28/22, 18:49 - +91 99227 66661: instead of requirement I typed requirements
+12/28/22, 18:49 - +91 99227 66661: in the setup file
+12/28/22, 18:49 - +91 99379 99162: Ok👍
+12/31/22, 17:46 - +91 98368 99312: Please connect and endorse each other...
+
+https://www.linkedin.com/in/ruptosh
+12/31/22, 18:28 - Shivan @Ineuron YT Creatoy: 5 Complete machine learning project you can find below:
+
+Machine Learning project 1: https://lnkd.in/dU4b_jsV
+
+Machine Learning project 2: https://lnkd.in/dTeADYSa
+
+Machine Learning project 3: https://lnkd.in/dAX8_teV
+
+Machine Learning project 4: https://lnkd.in/d_W-j8xR
+
+Machine Learning Project 5: https://lnkd.in/dpPM5RMc
+12/31/22, 19:43 - +91 90042 57538: <Media omitted>
+12/31/22, 19:43 - +91 90042 57538: anyone know how to resolve this i'm trying to push code to github
+12/31/22, 22:06 - +91 81785 68253: Have you checked user.email and user.name? Most likely this happens when these variables are not set
+12/31/22, 22:09 - +91 81785 68253: Did this happen with anyone that you created a new feature which has 15% correlation with output feature, yet it's not contributing in accuracy?
+
+This seems strange to me. Any help in this regards is appreciated.
+
+Happy New Year 😌
+12/31/22, 22:14 - +91 90042 57538: Both are correct I guess
+12/31/22, 22:16 - +91 81785 68253: Ummm not really what's wrong here. As far as i call recall, i came across probably the same error once. I reset the variables and it started working. Not sure if it's gonna work this time
+12/31/22, 23:02 - +91 93719 83850: Try to check if you are using https method or SSH method to authenticate. I think with SSH you need personal access token.
+1/1/23, 00:54 - +91 98368 99312: <Media omitted>
+1/1/23, 00:56 - +91 97482 63373: <Media omitted>
+1/1/23, 02:06 - Shobhandeb Paul: Happy New Year 🤠
+1/1/23, 06:01 - +60 11-2419 2738: Happy New Year  🎊🎊🎉🎉
+1/1/23, 08:01 - +91 95952 53520: *नूतन वर्षाच्या आपणा सर्वांना मनापासून शुभेच्छा! येणारे हे नववर्ष आपणांस व आपल्या कुटुंबियांना सुख-समृद्धीचे, आरोग्यदायी व आकांक्षापूर्तीचे जावो या शुभेच्छा!* 💯🎊🎉💫🥳
+
+*Happy New Year 2023*🥳🥳🥳
+1/1/23, 10:06 - +44 7831 624309: Happy New Year
+1/1/23, 10:37 - +91 84119 11153: <Media omitted>
+1/2/23, 12:08 - Shivan @Ineuron YT Creatoy: https://youtu.be/EEs0oOUmXRM
+1/2/23, 12:08 - Shivan @Ineuron YT Creatoy: Live now
+1/4/23, 00:40 - +91 98368 99312: https://www.linkedin.com/feed/update/urn:li:ugcPost:7016117594361393153/
+1/4/23, 00:40 - +91 98368 99312: please like and share
+1/4/23, 12:07 - Shivan @Ineuron YT Creatoy: https://youtu.be/8XeEnG6o3l4
+1/4/23, 12:46 - +91 70072 43774: <Media omitted>
+1/4/23, 12:48 - +91 76088 83617: It should be sensor.config
+1/4/23, 12:48 - +91 76088 83617: Or untils
+1/4/23, 12:49 - +91 76088 83617: Check from where importing it
+1/4/23, 12:50 - +91 70072 43774: From Sensor.exception
+1/4/23, 12:50 - +91 76088 83617: Does exception file have get_dataframe function?
+1/4/23, 12:52 - +91 70072 43774: It’s under utils
+1/4/23, 12:52 - +91 76088 83617: Then import it from there
+1/4/23, 13:13 - +91 70072 43774: <Media omitted>
+1/4/23, 13:15 - +91 90909 52427: Some error or codes must be missing
+1/4/23, 13:19 - +91 70072 43774: <Media omitted>
+1/4/23, 13:19 - +91 70072 43774: 😭
+1/4/23, 13:21 - +91 70072 43774: Error is not showing
+1/4/23, 13:21 - +91 70237 56844: Use raise in exception block
+1/4/23, 13:22 - +91 70237 56844: It will be easier for u to debug
+1/4/23, 13:22 - +91 76088 83617: Show the data ingestion component
+1/4/23, 13:23 - +91 70072 43774: <Media omitted>
+1/4/23, 13:24 - +91 76088 83617: You have started it …
+How will the artifact dir will get created
+1/4/23, 13:25 - +91 76088 83617: When you will save the dataset there you use 
+Os.mkdirs
+1/4/23, 13:25 - +91 76088 83617: Then it will get created
+1/4/23, 13:26 - +91 76088 83617: This just creates a path not the folder
+1/4/23, 13:27 - +91 70072 43774: Oh ok
+1/4/23, 13:30 - +91 70072 43774: Can you help me with that , the recorded videos aren’t synchronised , I’m facing issues because of that some of the video components aren’t showing 😭
+1/4/23, 13:37 - +91 88904 56326: can somebody help me with this problem
+1/4/23, 13:38 - +91 88904 56326: <Media omitted>
+1/4/23, 13:51 - +44 7831 624309: Download files from the Resources and follow it along the video..it would help...I know it was difficult to follow the video...@919371983850 @917608883617 helped me through it....is a challenge!!
+1/5/23, 14:46 - +44 7831 624309: <Media omitted>
+1/5/23, 14:47 - +91 79855 54980: Yes
+1/5/23, 14:48 - +91 90042 57538: Tech neuron is also lifetime?
+1/5/23, 14:51 - +91 98610 45001: Previously during Teacher's day it was lifetime. But this time it is for 2 years
+1/5/23, 15:38 - +91 82962 26281: What is the link ??
+1/5/23, 15:44 - +44 7831 624309: This was an ad send out to me from.PW
+1/5/23, 16:04 - +91 82962 26281: Ok...
+1/5/23, 16:33 - +91 96859 11215: Two years
+1/5/23, 16:33 - +91 96859 11215: End date would be on the dashboard
+1/5/23, 17:41 - +44 7831 624309: Don't see any in mine, where do we find it please?
+1/5/23, 17:41 - +91 96859 11215: Go to the one neuron tab/section
+1/5/23, 17:42 - +91 96859 11215: Valid till is written there
+1/5/23, 17:43 - +91 96859 11215: <Media omitted>
+1/5/23, 17:47 - +44 7831 624309: Ok that's one neuron..
+But how about bootcamp FSDS
+1/5/23, 17:56 - +91 96859 11215: haven't seen that. I answered for tech neuron
+should be lifetime access for non subscription ones
+1/5/23, 17:56 - +91 96859 11215: ask the team on the website
+1/5/23, 17:57 - +44 7831 624309: Ok
+1/5/23, 18:40 - Shivan @Ineuron YT Creatoy: Hello Everyone, 
+
+I'm planning to start one to one Mentorship, related to projects, resume building, assignment helps and many more. 
+
+You can book a slot with me over Calendly & its a free of cos.
+
+Kindly join here: https://t.me/datascience32 
+
+so that I will share my Calendly credentials with you all.
+1/5/23, 20:05 - +91 75880 03618: ❤️
+1/6/23, 10:58 - Shivan @Ineuron YT Creatoy: https://youtu.be/GZB4MfsR_G0
+1/6/23, 17:31 - +91 81785 68253: Has anybody registered for Analytics Vidhya Jobathon?
+1/6/23, 17:31 - +91 81785 68253: Being conducted on 20th Jan
+1/6/23, 17:54 - +91 72062 13862: What will be the procedure to apply
+1/6/23, 17:56 - +91 81785 68253: https://tinyurl.com/4hhsby3r
+
+You can apply here. I also haven't registered yet but will do it
+1/6/23, 17:56 - +91 72062 13862: Thanks @918178568253
+1/6/23, 17:56 - +91 81785 68253: No problem
+1/6/23, 21:59 - +91 81785 68253: Is there anyone from credit card industry or have some exposure of this industry?
+I need some help related to a project.
+
+Thanks already
+1/6/23, 22:13 - Subhash Dixit: Did any use apache airflow from AWS? I have deployed successfully but not able to open Airflow
+1/6/23, 22:14 - Subhash Dixit: I can't create larger machine.  Any solution will be highly highly appreciated
+1/6/23, 22:19 - +91 93719 83850: There is a way to run it locally but it needs a lot of configuration changes for docker image, authentication, etc. I am trying to do it but not there yet.
+1/6/23, 22:21 - Subhash Dixit: Okay bro I can't do lots of changes. I am still not confident with the project code. How they are opening by just changing the port and removing the secure connection
+1/6/23, 23:04 - Subhash Dixit: Do we need to create airflow account or we can use Avnish's account with the admin as username and password?
+1/6/23, 23:16 - +91 93719 83850: To run the airflow service, it needs to be configured with username, password and role. It has nothing to do with Avnish's credentials. Anyone with your EC2 app link and credentials can access admin panel. You can give whatever you like. Important is to not share with anyone.
+1/6/23, 23:19 - Subhash Dixit: Okay Bo. Thanks for the info. Understood now. Tell me one more thing why ec2app link is taking long tim eto open airflow and not opening many times? Is there any catch?
+1/6/23, 23:22 - +91 93719 83850: Only thing that I can think of is that, free tier ec2 instance is very slow and might be taking very long time to read data from db, process it and training. It might make session to expire. That's my assumption.
+1/6/23, 23:23 - Subhash Dixit: Yes that's why Avnish has created bigger machine. Is there any other way to test our application if we can not use bigger machince?
+1/6/23, 23:25 - +91 93719 83850: Yeah, that's what I said about running it on local.
+1/6/23, 23:26 - +91 93719 83850: Or may be try on azure with the credit you receive when logging it for the first time. You get 50usd I think.
+1/6/23, 23:26 - Subhash Dixit: Yes, Okay bro you try and please let me know if you succeed.
+1/6/23, 23:27 - Subhash Dixit: yes, I will try Azure once. Thank you
+1/6/23, 23:28 - +91 93719 83850: But it also needs same changes and alot of security settings to connect aws ECR with azure vm.
+1/6/23, 23:29 - Subhash Dixit: I need to study about deployment in depth then only I can make changes. There are lots of code.
+1/7/23, 01:19 - +91 93719 83850: you can run Airflow locally by installing Docker Desktop first. Then run this command to make a docker image on the local system - "docker build -t sensor ." Mind the dot after sensor(image name). It will take 30-45 min to build a docker image based on your computer specs. Once the image is done, run this command to start container - "docker run -dp 8080:8080 sensor".
+1/7/23, 01:20 - +91 93719 83850: It will atleast start airflow service & you can see the web app after login. But the pipelines will fail as it will not be able to store your model in S3 bucket.
+1/7/23, 01:23 - +91 93719 83850: to see the app browse to localhost:8080
+1/7/23, 01:24 - Shobhandeb Paul: Thanks, will give it a try now
+1/7/23, 11:39 - Shivan @Ineuron YT Creatoy: https://youtu.be/Yqi_34J6EF0
+1/7/23, 14:22 - Subhash Dixit: ERROR: Could not find a version that satisfies the requirement tenserflow (from versions: none)
+ERROR: No matching distribution found for tenserflow
+Did anyone ever face this error while installing tensorflow from requirements.txt?
+1/7/23, 14:47 - +91 90042 57538: <Media omitted>
+1/7/23, 14:48 - Subhash Dixit: Which cmopany?
+1/7/23, 14:48 - Subhash Dixit: company*
+1/7/23, 14:49 - +91 90042 57538: ATOP consultants
+1/7/23, 23:29 - +91 98217 15290: Aaj class me kya padhaya sir ne?
+1/8/23, 00:00 - Shobhandeb Paul: PCA
+1/8/23, 21:42 - +91 96404 90672: Can anyone explain difference between  feature selection algorithms  and dimensionality reduction ??
+1/8/23, 21:44 - Subhash Dixit: Features selection: you will choose features. Features will remain same , for example just that you have chosen 3 out of 5 features 
+Dimensionality reduction: features are getting transformed. Final components will not be the same as initial features.
+1/8/23, 21:45 - Subhash Dixit: Dimensionality reduction: you can't decide the features name because it is just transformed data
+1/8/23, 22:02 - +91 96404 90672: Okay
+1/8/23, 22:02 - +91 96404 90672: Thank you
+1/8/23, 23:06 - +91 93719 83850: Very nicely explained 🙂
+1/8/23, 23:06 - Subhash Dixit: Thanks
+1/9/23, 00:58 - Shobhandeb Paul: Hi Guys, 
+Me & Subhash have completed the internship project, go through the link & provide your feedbacks:
+https://www.youtube.com/watch?v=IR4eD6c_p9s
+1/9/23, 09:13 - +91 97168 98919: Well done. If you could post this in LinkedIn.
+1/9/23, 09:17 - Shobhandeb Paul: https://www.linkedin.com/posts/shobhandeb-paul-b6914a168_github-herbert0419insurance-premium-prediction-activity-7017927204500070400-jyvE?utm_source=share&utm_medium=member_android
+1/9/23, 09:18 - +91 97168 98919: Awesome
+1/9/23, 09:53 - Shobhandeb Paul: thanks 🙂
+1/9/23, 12:06 - Shivan @Ineuron YT Creatoy: https://youtu.be/he9FrAo6pms
+1/9/23, 12:06 - Shivan @Ineuron YT Creatoy: Live now
+1/9/23, 19:19 - +91 98610 45001: <Media omitted>
+1/9/23, 19:19 - +91 98610 45001: <Media omitted>
+1/9/23, 19:20 - +91 98610 45001: On pw skills they decreased the course amount
+1/9/23, 19:20 - Shobhandeb Paul: course curriculum is also different,
+we have big data & BI part covered, but there it is not
+1/9/23, 19:20 - +91 98610 45001: What will be the advantage and disadvantage of taking admission and not taking admission into the course?
+1/9/23, 19:21 - Shobhandeb Paul: there is no live class provided
+1/9/23, 19:21 - +91 90042 57538: They have 80% recorded session and 20% live
+1/9/23, 19:21 - Shobhandeb Paul: we have 100% live and 100% recorded
+1/9/23, 19:21 - Shobhandeb Paul: .
+1/9/23, 19:21 - +91 90042 57538: Yes
+1/9/23, 19:22 - +91 98610 45001: Can we  take admission again for another certificate? We can show off on LinkedIn
+1/9/23, 19:23 - +91 95952 53520: Our syllabus huge as compare to others.... They will cover all data science & big data content
+1/9/23, 19:23 - Shobhandeb Paul: you tell me, is it wise to take same course again and flaunt?... everyone knows the content
+1/9/23, 19:24 - +91 98610 45001: U r right tho
+1/9/23, 19:24 - +91 98610 45001: Os der any extra advantage from Pw skills?
+1/9/23, 19:25 - +91 98610 45001: Is**
+1/9/23, 19:25 - Shobhandeb Paul: yes for those, who want to learn only ml & dl , with a reasonable amount
+1/9/23, 19:25 - Shobhandeb Paul: dont care about live class supprt, just to brush up
+1/9/23, 19:27 - +91 98610 45001: Ok
+1/9/23, 19:30 - +91 98610 45001: It is having 2 years dash board access 🙄
+1/9/23, 19:30 - +91 98610 45001: Not worth
+1/10/23, 11:41 - +91 70872 34788: Guys there is several vacancies in my organisation 👇🏻
+1/10/23, 11:42 - +91 70872 34788: <Media omitted>
+1/10/23, 11:42 - +91 70872 34788: 4+ years of experience required
+1/10/23, 11:43 - +91 70872 34788: Can send cv on gaurav.singh@t-systems.com
+1/10/23, 20:44 - +91 70060 60377: Is there anyone who haven't started making any project till now and going to make in a while?
+1/10/23, 20:44 - +44 7831 624309: 🙋‍♂️
+1/10/23, 20:45 - +91 70206 63067: Me
+1/10/23, 20:46 - +91 72610 58757: 🙋‍♂️
+1/10/23, 20:46 - +91 81785 68253: Have started yesterday
+1/10/23, 20:47 - +91 89781 78218: ✋🏼
+1/10/23, 20:47 - +91 72507 40030: Me
+1/10/23, 20:47 - +91 98610 45001: ✋🏻
+1/10/23, 21:02 - +91 90042 57538: <Media omitted>
+1/10/23, 21:03 - +91 90042 57538: in line no 105 I don't have any thing with named exception
+1/10/23, 21:03 - +91 97309 42181: ☝️
+1/10/23, 21:06 - +91 72062 13862: Me
+1/10/23, 21:19 - +91 93719 83850: Check inside drop_missing_value_columns() function. May be coming from there.
+1/10/23, 21:22 - +91 77081 21800: 🤚🏻
+1/10/23, 21:26 - +91 78955 03637: Me
+1/10/23, 21:32 - Subhash Dixit: Just trace the function missing value wala using ctrl+click ...you can understand them
+1/10/23, 21:32 - Subhash Dixit: Then*
+1/10/23, 22:27 - +91 90042 57538: got it thanks
+1/10/23, 22:36 - +91 98111 07575: <Media omitted>
+1/10/23, 22:36 - +91 98111 07575: Guys need ur help to resolve the issue..
+1/10/23, 22:39 - Subhash Dixit: Check your line 8 in yaml file...may some colon is missing
+1/10/23, 22:39 - Subhash Dixit: May be*
+1/10/23, 22:41 - +91 98111 07575: <Media omitted>
+1/10/23, 22:41 - +91 98111 07575: not sure, if any change is required
+1/10/23, 22:44 - Shobhandeb Paul: compare main.yaml once again
+1/10/23, 22:44 - Subhash Dixit: Check in compose yaml or else share your GitHub link
+1/10/23, 22:45 - +91 98111 07575: sure..
+1/10/23, 23:02 - +91 90129 22002: Check if space is needed in 8th line After colon in  continuous deployment
+1/10/23, 23:02 - +91 90129 22002: I am getting same error
+1/10/23, 23:06 - +91 98111 07575: trying..
+1/11/23, 02:29 - +91 81785 68253: <Media omitted>
+1/11/23, 02:30 - +91 81785 68253: I've even changed the user privileged but still not writing anything to collections
+1/11/23, 02:46 - Subhash Dixit: Did anyone work on discontinuous time series data for multivariate analysis?
+1/11/23, 08:02 - Shobhandeb Paul: show the code snippet pl
+1/11/23, 12:33 - +91 81785 68253: It's the same which Avnish had written.
+Url of mongodb and password is correct too
+1/11/23, 13:03 - Shivan @Ineuron YT Creatoy: https://youtu.be/Ess3SRw5ZNo
+1/11/23, 18:57 - +91 90218 58584: Hey anyone got placed after machine learning module via ineuron?
+1/11/23, 19:06 - +91 96404 90672: Are you people using Ensemble techniques in your projects I am not able to decide when to use them ?
+1/11/23, 19:06 - +91 96404 90672: Please Can someone explain?
+1/11/23, 19:14 - Shobhandeb Paul: please share your git repo
+1/11/23, 19:14 - Shobhandeb Paul: will check
+1/11/23, 20:09 - Subhash Dixit: It completely depends on the problem statement. I will suggest try all the methods, whichever is giving good results take that. And also ensemble techniques requires high computational power, so decide accu
+1/11/23, 21:53 - +91 98111 07575: There was an error in the decompose file.. 
+Thanks for ur support!!
+1/11/23, 21:54 - Subhash Dixit: No issue bro
+1/11/23, 22:28 - +91 90129 22002: What was the error?
+1/11/23, 22:30 - +91 98111 07575: I wrote something in front of ports:
+1/11/23, 22:30 - +91 98111 07575: It ws keying error
+1/11/23, 23:02 - Subhash Dixit: Can some send me the link of UCI repository which Sunny discussed at the last for the task?
+1/12/23, 00:21 - +91 81785 68253: Thanks bro... Its been sorter now. I forgot to load the environment variables
+1/12/23, 00:21 - +91 81785 68253: *sorted
+1/12/23, 00:43 - Shobhandeb Paul: Cool
+1/12/23, 00:43 - Shobhandeb Paul: no issues
+1/12/23, 12:32 - +91 98368 99312: <Media omitted>
+1/12/23, 12:56 - +91 90042 57538: This message was deleted
+1/12/23, 12:57 - +91 90042 57538: https://www.instagram.com/p/CnTcQPDreQm/?igshid=NTU1Mzc3ZGM=
+1/12/23, 16:29 - +91 83293 49793 changed to +44 7442 395986
+1/12/23, 18:17 - Shivan @Ineuron YT Creatoy: https://www.instagram.com/p/CnTy11Ks0FT/?utm_source=ig_web_button_share_sheet
+1/12/23, 23:09 - +91 90042 57538: <Media omitted>
+1/13/23, 00:13 - Shobhandeb Paul: check your utils.py file
+1/13/23, 00:13 - +91 90042 57538: Its open
+1/13/23, 00:13 - +91 90042 57538: The code is from utils.py
+1/13/23, 12:06 - Shivan @Ineuron YT Creatoy: On demand playlist on my channel: https://youtu.be/uk2zMF6PA2I
+1/13/23, 12:07 - Shivan @Ineuron YT Creatoy: Please share atleast in one WhatsApp group 🙏🏻
+1/13/23, 13:11 - +91 93719 83850: Try to update numpy package to latest version. Run Pip install numpy --upgrade --ignore-installed
+1/14/23, 08:08 - +91 79755 70668: Hi Guys, online support has been revoked from iNeuron side? I am trying to connect but now it is coming as offline mesg. Did anyone use earlier this.
+1/14/23, 08:10 - +91 79755 70668: <Media omitted>
+1/14/23, 08:11 - +91 90909 52427: They come online within office hours only
+1/14/23, 08:12 - +91 79755 70668: Ok. Thanks for confirming 👍
+1/14/23, 08:14 - +91 90909 52427: I never get support email resolution for offline queries. 😅
+1/14/23, 08:24 - +91 79755 70668: Oh ok
+1/14/23, 12:55 - Subhash Dixit: Hi everyone,
+Did  anyone complete the task given by Sunny of Activity recognition dataset? Is it a time series or classification problem?
+1/14/23, 16:59 - +91 70206 63067: Exactly from the merger itself
+1/14/23, 17:09 - Shivan @Ineuron YT Creatoy: https://youtu.be/JxdpjhFZM3U
+1/14/23, 17:09 - Shivan @Ineuron YT Creatoy: Day 1 started
+1/15/23, 15:21 - +91 99875 64492: Requirements for one of our consultants payroll with Jio
+
+1.Technical project manager(7-10 years)
+
+2.AI ML developer(3-5 years)
+
+Pls share CVs of interested candidates to my email:
+
+Chaitanya.Shah@ril.com
+
+Share ur resume if anyone's interested ✌🏻
+1/15/23, 15:21 - +60 11-2419 2738: Salary range?
+For 1 & 2?
+1/15/23, 15:24 - +91 99875 64492: based on previous
+1/15/23, 15:33 - +60 11-2419 2738: Ok.
+1/15/23, 20:15 - +91 98111 07575: Guys any idea why link is not working while testing code from neurolab with https://127.0.0.1:5000/
+
+while the same works if tested at VS code
+
+app.run(debug=True)
+1/15/23, 20:16 - +91 70237 56844: Because neuro lab work on cloud
+1/15/23, 20:17 - +91 70237 56844: 127.0.0:5000 work on local
+1/15/23, 20:17 - +91 98111 07575: pls advice how to test link at neurolab
+1/15/23, 20:18 - +91 70237 56844: No idea
+1/15/23, 20:18 - +91 95959 59773: Use flask in neurolab
+1/15/23, 20:19 - +91 95959 59773: I had same issue
+1/15/23, 20:21 - +91 95959 59773: But python version might cause issue while unpickling
+1/15/23, 20:22 - +91 98111 07575: okay.. sharing GIthub link wid you, if possible then pls look into that once u wd get d time
+1/15/23, 20:23 - +91 95959 59773: Okay
+1/15/23, 20:24 - +91 98111 07575: Thanks
+1/15/23, 20:34 - +91 93719 83850: See the browser url, copy everything upto iNeuron.app and append port no. Like this, browser-name-here.ineuron.app:5000
+1/15/23, 20:35 - +91 93719 83850: Its mentioned in README.md file also. Check readme
+1/15/23, 20:57 - +91 95959 59773: <Media omitted>
+1/15/23, 20:58 - +91 95959 59773: Anyone know how to set up environment in neurolab
+1/15/23, 21:03 - Subhash Dixit: can you check once whether this running for 8000 port or not?
+1/15/23, 21:03 - +91 93719 83850: Neuroyis already running inside container, no need to make env there. Just pip install directly
+1/15/23, 21:05 - +91 95959 59773: No
+1/15/23, 21:09 - +91 98111 07575: let me try dis..
+1/15/23, 21:09 - Subhash Dixit: OKay
+1/15/23, 21:09 - +91 98111 07575: tried.. but not working
+1/15/23, 21:13 - Subhash Dixit: Thanks for trying. Neurolab is working with port 5000 only. Got it
+1/15/23, 21:30 - +91 95959 59773: Anyone here who got internship completion letter
+1/15/23, 21:30 - Shobhandeb Paul: yes
+1/15/23, 21:31 - +91 95959 59773: It almost two week I didn't
+1/15/23, 21:31 - Subhash Dixit: yup
+1/15/23, 21:31 - Subhash Dixit: Mail them with important reason (jhuta reason🤣)
+1/15/23, 21:31 - Shobhandeb Paul: Send them a mail, regarding your completion with a ss
+1/15/23, 21:31 - +91 95959 59773: Is it mandatory to post on LinkedIn
+1/15/23, 21:31 - Shobhandeb Paul: include this also
+1/15/23, 21:32 - Shobhandeb Paul: your project
+1/15/23, 21:32 - +91 95959 59773: 😂
+1/15/23, 21:33 - +91 95959 59773: Can you share mail id?
+1/15/23, 21:37 - Shobhandeb Paul: krish.naik@ineuron.ai,
+sudhanshu@ineuron.ai,
+Sunny Savita <sunny.savita@ineuron.ai,
+1/15/23, 21:37 - Shobhandeb Paul: contact@ineuron.ai
+1/15/23, 21:38 - +91 95959 59773: thanks
+1/15/23, 23:14 - +91 98368 99312: https://www.linkedin.com/posts/ruptosh_probability-activity-7020445046348939264-Zm8c?utm_source=share&utm_medium=member_desktop
+1/15/23, 23:14 - +91 98368 99312: please like and share
+1/16/23, 17:03 - Shivan @Ineuron YT Creatoy: https://youtu.be/rUtxuOP4DXo
+1/16/23, 17:04 - Shivan @Ineuron YT Creatoy: Day 2 live now
+1/17/23, 22:44 - +91 99440 94955: https://datalemur.com?referralCode=qprc4wqS
+1/18/23, 11:26 - Shivan @Ineuron YT Creatoy: https://www.instagram.com/p/Cni6ZD_KRTi/?igshid=YmMyMTA2M2Y=
+1/18/23, 17:10 - Shivan @Ineuron YT Creatoy: https://youtu.be/TUpdpRzcMx8
+1/18/23, 17:10 - Shivan @Ineuron YT Creatoy: Day 3 live now
+1/18/23, 19:58 - Subhash Dixit: https://youtu.be/H99JRtDDnvk
+1/18/23, 20:00 - Subhash Dixit: Look at his explanation and Sunny's explanation for PCA. After paying also we didn't get his lecture in the course for PCA.  Sunny is good but Krish is the best. We have paid to learn from Krish not from others
+1/18/23, 20:05 - +91 99875 64492: Exactly but now nothing can happen......
+1/18/23, 20:32 - Shobhandeb Paul: irony is, it is open source 🥴
+1/18/23, 20:32 - Subhash Dixit: Ha that is different. I was just going through his lecture and feel like I should share my feelings here😂
+1/18/23, 20:33 - Subhash Dixit: Yup
+1/18/23, 20:34 - +91 98250 15084: This happens when teachers try to become businessman..
+1/18/23, 20:34 - Shobhandeb Paul: ekdm sahi kiya bro, feelings chupa k nhi rakhna chahiye 😂
+1/18/23, 20:34 - +91 90909 52427: <Media omitted>
+1/18/23, 20:37 - Subhash Dixit: 💯
+1/18/23, 20:37 - Subhash Dixit: 😂😂😂
+1/18/23, 20:44 - Subhash Dixit: This error is related to version. Stats models mai se file move hua ho gya h. Either use the same statmodels version or else change the syntax little bite
+1/18/23, 20:44 - Subhash Dixit: But*
+1/18/23, 20:44 - Subhash Dixit: Bit*
+1/18/23, 20:51 - +91 98250 15084: <Media omitted>
+1/18/23, 20:51 - +91 98250 15084: Ya fir se sunny ko hi agay kar denge.. deep learning mai bhi.
+1/18/23, 20:59 - +91 99440 94955: https://datalemur.com?referralCode=qprc4wqS
+1/18/23, 21:00 - Shobhandeb Paul: <Media omitted>
+1/18/23, 21:22 - +91 95952 53520: Ha bhai... Aab definitely sunny sir will take class
+1/18/23, 22:05 - +91 77809 92150: After deployment of project  do have to terminate that ec2 machine
+1/18/23, 22:05 - +91 77809 92150: ?
+1/18/23, 22:07 - +91 77809 92150: <Media omitted>
+1/18/23, 22:14 - +91 90909 52427: I am getting same kind of mail
+1/18/23, 22:15 - +91 77809 92150: So do we need to terminate that machine?
+1/18/23, 22:18 - Subhash Dixit: Yes, please stop the instances. otherwise they will charge
+1/18/23, 22:19 - +91 77809 92150: Stop or terminate
+1/18/23, 22:19 - Subhash Dixit: Stop
+1/18/23, 22:19 - +91 77809 92150: Ok
+1/18/23, 22:19 - +91 77809 92150: Thanks
+1/18/23, 22:30 - +91 90909 52427: How to stop
+1/18/23, 22:31 - +91 77809 92150: <Media omitted>
+1/18/23, 22:32 - Shobhandeb Paul: it is already in stopped state
+1/18/23, 22:32 - Shobhandeb Paul: no need to do anything
+1/18/23, 22:35 - +91 90909 52427: Ok
+1/18/23, 23:13 - +91 99875 64492: Gaya deep learning bhi fir😂😂
+1/18/23, 23:14 - +91 77809 92150: 😂
+1/18/23, 23:15 - +91 95952 53520: Aab aage se sab yaisa hi hone wala hai
+1/18/23, 23:15 - +91 84119 11153: No
+1/18/23, 23:17 - +91 79855 54980: Alak Pandey will take the rest of the class 😄😄
+1/18/23, 23:17 - +91 84119 11153: Usko loding nahi aata re baba 😂
+1/18/23, 23:17 - +91 84119 11153: Coding*
+1/18/23, 23:18 - +91 95952 53520: Phir😂😂🤣🤣
+1/18/23, 23:18 - +91 95952 53520: UPSC kare kya
+1/18/23, 23:18 - +91 79855 54980: Ab ye physics Walla ban gaya ta .. ab yaha kuch bi ho sakta hai 🤣🤣
+1/18/23, 23:20 - +91 99675 57017: Guyz kisiko machine learning module ke baad job mila kya ineuron se ???
+1/18/23, 23:22 - +91 79855 54980: Yes..
+1/18/23, 23:23 - +91 93903 94878: Terminate it. If you stop it, The data which has in EC2 starts billing.
+1/18/23, 23:23 - +91 99675 57017: Ohk
+1/18/23, 23:23 - +91 77809 92150: Ok
+1/18/23, 23:24 - Shobhandeb Paul: package?
+1/18/23, 23:24 - Shobhandeb Paul: fresher or exp
+1/19/23, 16:16 - +91 90042 57538: <Media omitted>
+1/20/23, 17:04 - Shivan @Ineuron YT Creatoy: https://youtu.be/lJp5OkcuHs8
+1/20/23, 17:04 - Shivan @Ineuron YT Creatoy: Part 4 live now
+1/20/23, 19:25 - +91 99227 66661: Has sir taught nlp in machine learning ?

@@ -1,0 +1,10 @@
+pandas
+numpy
+streamlit
+urlextract
+wordcloud
+emoji
+matplotlib
+seaborn
+scipy
+# nltk
