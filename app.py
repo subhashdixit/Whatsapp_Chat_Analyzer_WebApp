@@ -133,7 +133,8 @@ if uploaded_file is not None:
             fig,ax = plt.subplots()
             ax.pie(emoji_df[1].head(),labels=emoji_df[0].head(),autopct="%0.2f")
             st.pyplot(fig)
-        
+            
+        # Due to version issue, we have skipped this part though sentiment analysis is present in ipyn file
         # st.title("Sentiment Analysis")
         # pos,neg,neut  = helper.sentiment_analysis(selected_user,df)
         # st.write(f"Count of Positive Messages : {pos}")
