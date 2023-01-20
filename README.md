@@ -1,7 +1,7 @@
 # Whatsapp_Chat_Analyzer_WebApp
 
 
-###This webapp will perform the below mentiones tasks on individual and overall level for personal and group chats both:
+### This webapp will perform the below mentiones tasks on individual and overall level for personal and group chats both:
 ```
 * Count of total messages
 * Count of total words
@@ -18,7 +18,7 @@
 ```
 Feel free to add more analysis into the code.
 
-###Steps to use the app:
+### Steps to use the app:
 ```
 1. Upload you txt file by exporting it from your chat
 2. Click on show analysis button 
