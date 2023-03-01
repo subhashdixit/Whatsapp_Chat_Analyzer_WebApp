@@ -168,17 +168,10 @@ def sentiment_analysis(selected_user,df):
             neg = neg+1
         else:
             neut = neut +1
-    # print(f" Positive : {pos} \n Negative : {neg} \n Nuetral : {neut}")
-
-   sentiment_score = {"Positive" : pos, "Negative" : neg, "Nuetral" : neut}
-    # plt.bar(sentiment_score)
-    # data = {'C':20, 'C++':15, 'Java':30,Python':35}
+            
+    sentiment_score = {"Positive" : pos, "Negative" : neg, "Nuetral" : neut}
     category = list(sentiment_score.keys())
     score = list(sentiment_score.values())
-
-#     fig = plt.figure(figsize = (10, 5))
-    # creating the bar plot
     plt.bar(category, score,width = 0.4)
-    plt.show()
-#     return 
+    plt.show() 
 #     return pos,neg,neut
