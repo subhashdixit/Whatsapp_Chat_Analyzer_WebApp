@@ -3,7 +3,12 @@ from wordcloud import WordCloud
 import pandas as pd
 from collections import Counter
 import emoji
-# import nltk_modules
+import nltk
+# nltk.download('all')
+# nltk.download('punkt')
+# nltk.download('stopwords')
+# nltk.download('vader_lexicon')
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
 
 extract = URLExtract()
@@ -143,26 +148,26 @@ def activity_heatmap(selected_user,df):
 
     return user_heatmap
 
-# def sentiment_analysis(selected_user,df):
+def sentiment_analysis(selected_user,df):
     
-#     if selected_user != 'Overall':
-#         df = df[df['user'] == selected_user]
+    if selected_user != 'Overall':
+        df = df[df['user'] == selected_user]
 
-#     vds = nltk_modules.SentimentIntensityAnalyzer()
-#     for index,row in df.iterrows():
-#         negative, neutral, positive,_ = vds.polarity_scores(row['message']).values()
-#         sentiment = (positive-negative)
-#         df.loc[index,'sentiment'] = sentiment
-#     pos =0
-#     neg =0
-#     neut =0
-#     for index,row in df.iterrows():
-#         if row['sentiment']>0:
-#             pos = pos+1
-#         elif row['sentiment']<0:
-#             neg = neg+1
-#         else:
-#             neut = neut +1
-#     # print(f" Positive : {pos} \n Negative : {neg} \n Nuetral : {neut}")
+    vds = SentimentIntensityAnalyzer()
+    for index,row in df.iterrows():
+        negative, neutral, positive,_ = vds.polarity_scores(row['message']).values()
+        sentiment = (positive-negative)
+        df.loc[index,'sentiment'] = sentiment
+    pos =0
+    neg =0
+    neut =0
+    for index,row in df.iterrows():
+        if row['sentiment']>0:
+            pos = pos+1
+        elif row['sentiment']<0:
+            neg = neg+1
+        else:
+            neut = neut +1
+    # print(f" Positive : {pos} \n Negative : {neg} \n Nuetral : {neut}")
     
-#     return pos,neg,neut
+    return pos,neg,neut

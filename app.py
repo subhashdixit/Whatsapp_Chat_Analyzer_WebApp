@@ -2,6 +2,15 @@ import streamlit as st
 import preprocessor,helper
 import matplotlib.pyplot as plt
 import seaborn as sns
+import nltk
+# nltk.download('all')
+# nltk.download('punkt')
+# nltk.download('stopwords')
+# nltk.download('vader_lexicon')
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
+
+
+
 st.sidebar.title("WhatsApp Chat Analzyer")
 
 uploaded_file = st.sidebar.file_uploader("Choose a file")
@@ -135,8 +144,8 @@ if uploaded_file is not None:
             st.pyplot(fig)
             
         # Due to version issue, we have skipped this part though sentiment analysis is present in ipyn file
-        # st.title("Sentiment Analysis")
-        # pos,neg,neut  = helper.sentiment_analysis(selected_user,df)
-        # st.write(f"Count of Positive Messages : {pos}")
-        # st.write(f"Count of Negative Messages : {neg}")
-        # st.write(f"Count of Neutral Messages : {neut}")
+        st.title("Sentiment Analysis")
+        pos,neg,neut  = helper.sentiment_analysis(selected_user,df)
+        st.write(f"Count of Positive Messages : {pos}")
+        st.write(f"Count of Negative Messages : {neg}")
+        st.write(f"Count of Neutral Messages : {neut}")
