@@ -145,7 +145,11 @@ if uploaded_file is not None:
             
         # Due to version issue, we have skipped this part though sentiment analysis is present in ipyn file
         st.title("Sentiment Analysis")
-        pos,neg,neut  = helper.sentiment_analysis(selected_user,df)
-        st.write(f"Count of Positive Messages : {pos}")
-        st.write(f"Count of Negative Messages : {neg}")
-        st.write(f"Count of Neutral Messages : {neut}")
+        fig= plt.figure(figsize=(20,10))
+        helper.sentiment_analysis(selected_user,df)
+        st.pyplot(fig)
+        
+#         pos,neg,neut  = helper.sentiment_analysis(selected_user,df)
+#         st.write(f"Count of Positive Messages : {pos}")
+#         st.write(f"Count of Negative Messages : {neg}")
+#         st.write(f"Count of Neutral Messages : {neut}")
