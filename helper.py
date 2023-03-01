@@ -9,6 +9,10 @@ import nltk
 # nltk.download('stopwords')
 nltk.download('vader_lexicon')
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
+import streamlit as st
+import preprocessor,helper
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 
 extract = URLExtract()
