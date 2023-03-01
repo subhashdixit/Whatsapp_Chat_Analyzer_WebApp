@@ -178,5 +178,6 @@ def sentiment_analysis(selected_user,df):
     score = list(sentiment_score.values())
     plt.bar(category, score,width = 0.4)
     plt.yticks(fontsize=20)
+    plt.xticks(fontsize=20)
     plt.show() 
 #     return pos,neg,neut
