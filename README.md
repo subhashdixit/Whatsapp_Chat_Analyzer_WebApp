@@ -15,6 +15,8 @@ Webapp link : https://subhashdixit-whatsapp-chat-analyzer-webapp-app-fmqkw1.stre
 * Wordcloud
 * Most common words using bar graph
 * Count of emojis using pie chart and table
+* Sentiment Analysis
+* Topic Modeling
 ```
 Feel free to add more analysis into the code.
 
