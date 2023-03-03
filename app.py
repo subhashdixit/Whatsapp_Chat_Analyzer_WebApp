@@ -3,8 +3,17 @@ import preprocessor,helper
 import matplotlib.pyplot as plt
 import seaborn as sns
 import nltk
-# nltk.download('all')
-# nltk.download('punkt')
+import pandas as pd
+import numpy as np
+import re
+from sklearn.decomposition import NMF
+import string
+import unicodedata
+from nltk.tokenize import word_tokenize
+# from nltk.corpus import stopwords
+from sklearn.feature_extraction.text import  TfidfVectorizer 
+nltk.download('all')
+nltk.download('punkt')
 # nltk.download('stopwords')
 nltk.download('vader_lexicon')
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
@@ -143,13 +152,17 @@ if uploaded_file is not None:
             ax.pie(emoji_df[1].head(),labels=emoji_df[0].head(),autopct="%0.2f")
             st.pyplot(fig)
             
-        # Due to version issue, we have skipped this part though sentiment analysis is present in ipyn file
         st.title("Sentiment Analysis")
         fig= plt.figure(figsize=(20,10))
         helper.sentiment_analysis(selected_user,df)
         st.pyplot(fig)
         
-#         pos,neg,neut  = helper.sentiment_analysis(selected_user,df)
-#         st.write(f"Count of Positive Messages : {pos}")
-#         st.write(f"Count of Negative Messages : {neg}")
-#         st.write(f"Count of Neutral Messages : {neut}")
+        st.title("Topic Modeling")
+        # doc_topics, t, words = helper.run_NMF_model(selected_user,df['message'],0.8,10)
+        fig= plt.figure(figsize=(20,10))
+        helper.plot_topics(selected_user,df['message'])
+        st.pyplot(fig)
+        
+        # doc_topics, t, words = helper.run_NMF_model(selected_user,data,0.9,5)
+        # # classification = pd.DataFrame({"topic":range(5),'words':words})
+        # st.write(words)

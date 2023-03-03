@@ -1,11 +1,19 @@
 from urlextract import URLExtract
 from wordcloud import WordCloud
 import pandas as pd
+import numpy as np
 from collections import Counter
 import emoji
 import nltk
-# nltk.download('all')
-# nltk.download('punkt')
+import string
+import unicodedata
+import re
+from sklearn.decomposition import NMF
+from nltk.tokenize import word_tokenize
+# from nltk.corpus import stopwords
+from sklearn.feature_extraction.text import  TfidfVectorizer 
+nltk.download('all')
+nltk.download('punkt')
 # nltk.download('stopwords')
 nltk.download('vader_lexicon')
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
@@ -181,3 +189,56 @@ def sentiment_analysis(selected_user,df):
     plt.xticks(fontsize=20)
     plt.show() 
 #     return pos,neg,neut
+
+
+def elimina_tildes(cadena):
+    s = ''.join((c for c in unicodedata.normalize('NFD',cadena) if unicodedata.category(c) != 'Mn'))
+    return s
+
+def custom_tokenizer(text):
+    remove_punct = str.maketrans('', '', string.punctuation)
+    text = text.translate(remove_punct)
+    remove_digits = str.maketrans('', '', string.digits)
+    text = text.lower().translate(remove_digits)
+    shortword = re.compile(r'\W*\b\w{1,2}\b')
+    text = shortword.sub('', text)
+    text = elimina_tildes(text)
+    text = re.sub(r'([a-z])\1+', r'\1', text)
+    text = re.sub(r'(ha)[ha]*', 'ha', text)
+    tokens = word_tokenize(text)
+    # stop_words = stopwords.words('english')
+    # stop_words = stopwords.words('english')
+    # f = open('stop_hinglish.txt', 'r')
+    # stop_words = f.read()
+    stopwords_hinglish = pd.read_csv("stop_hinglish.txt", header = None)
+    stop_words =  []
+    for i in stopwords_hinglish[0]:
+        stop_words.append(i)
+    tokens_stop = [y for y in tokens if y not in stop_words]
+    return tokens_stop
+
+def run_NMF_model(selected_user,data,max_df,n_components):
+    if selected_user != 'Overall':
+        data = data[data['user'] == selected_user]
+
+    tfidf = TfidfVectorizer(tokenizer=custom_tokenizer,max_df=max_df,min_df = 50, max_features=5000) 
+    X = tfidf.fit_transform(data)       
+    nmf = NMF(n_components=n_components,random_state=0)
+    doc_topics = nmf.fit_transform(X)
+    t = np.argmax(doc_topics,axis=1)
+    counts = pd.Series(t).value_counts()
+    d = nmf.components_
+    w = tfidf.get_feature_names_out()
+    words = []
+    for r in range(len(d)):
+        a = sorted([(v,i) for i,v in enumerate(d[r])],reverse=True)[0:20]
+        words.append([w[e[1]] for e in a])
+    return doc_topics, t, words
+
+def plot_topics(selected_user,data):
+    doc_topics, t, words = run_NMF_model(selected_user,data,0.9,5)
+    t = np.argmax(doc_topics,axis=1)
+    plt.bar(pd.Series(t).unique(),pd.Series(t).value_counts())  
+    plt.xlabel("Topics")
+    plt.ylabel("Count")
+    plt.show()
